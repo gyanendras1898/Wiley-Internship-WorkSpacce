@@ -1,0 +1,43 @@
+package com.piyush.database;
+
+import java.io.File;
+import java.io.FileInputStream;
+import java.io.FileOutputStream;
+import java.io.ObjectInputStream;
+import java.io.ObjectOutputStream;
+
+import com.piyush.beans.Employee;
+import com.piyush.exceptions.FileNotFoundException;
+
+public class EmployeeDataBase {
+	private static Employee[] employees=new Employee[10];
+	static File file;
+	ObjectOutputStream oos=null;
+	ObjectInputStream ois=null;
+	
+	file=new File("EmployeeData.txt");
+	
+	public static Employee[] getEmployees() {
+		if(file.isFile()) {
+			ois=new ObjectInputStream(new FileInputStream(file));
+			 employees=(Employee[]) ois.readObject();
+			 ois.close();
+			 return employees;
+		}
+		else
+			throw new FileNotFoundException("File not exists");	
+		
+	}
+	public static void setEmployees(Employee[] employees) {
+		if(file.isFile()) {
+			oos=new ObjectOutputStream(new FileOutputStream(file));
+			oos.writeObject(employees);
+			oos.close();
+		}
+		else
+			throw new FileNotFoundException("File not exists");	
+	}
+	
+	
+
+}

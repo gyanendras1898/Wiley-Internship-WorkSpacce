@@ -1,0 +1,8 @@
+package tollplaza;
+
+public class Bridge {
+	
+	synchronized public void pass(Vehicle vehicle) {
+		System.out.println(vehicle.getName()+" crosses bridge");
+	}
+}

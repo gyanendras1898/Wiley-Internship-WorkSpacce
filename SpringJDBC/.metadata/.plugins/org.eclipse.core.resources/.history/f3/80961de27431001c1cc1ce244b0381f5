@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns:context="http://www.springframework.org/schema/context"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd
+		http://www.springframework.org/schema/context http://www.springframework.org/schema/context/spring-context.xsd">
+
+	
+	<bean id="employeeDao" class="com.piyush.persistence.EmployeeDaoImpl">
+	<property name="dataSource" ref="dataSource"></property>
+	</bean>
+	
+	<bean id="employeeService" class="com.piyush.service.EmployeeServiceImpl">
+	<constructor-arg name="employeeDao" ref="employeeDao"></constructor-arg>
+	</bean>
+	
+	<bean id="employeePresentation" class="com.piyush.presentation.EmployeePresentationImpl">
+	<constructor-arg name="employeeService" ref="employeeService"></constructor-arg>
+	</bean>
+
+	<bean id="dataSource" class="org.springframework.jdbc.datasource.DriverManagerDataSource">
+			<property name="driverClassName" value="com.mysql.cj.jdbc.Driver"></property>
+			<property name="url" value="jdbc:mysql://localhost:3306/employeedb"></property>
+			<property name="username" value="root"></property>
+			<property name="password" value="admin"></property>
+		</bean>
+
+</beans>

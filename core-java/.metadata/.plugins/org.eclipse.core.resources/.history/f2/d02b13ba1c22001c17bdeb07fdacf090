@@ -1,0 +1,13 @@
+package thread.henowner;
+
+import java.util.concurrent.Executor;
+import java.util.concurrent.Executors;
+
+public class Main {
+	public static void main(String[] args) {
+		Egg egg=new Egg();
+		Thread thread=new Thread(egg);
+		thread.start();
+	}
+
+}

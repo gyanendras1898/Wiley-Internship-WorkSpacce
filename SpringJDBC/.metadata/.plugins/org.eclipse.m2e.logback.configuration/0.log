@@ -1,0 +1,303 @@
+2021-10-20 10:38:38,701 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2021-10-20 10:40:13,296 [Worker-16: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: EmployeeJDBCLayeredApproach:EmployeeJDBCLayeredApproach:0.0.1-SNAPSHOT @ D:\work-space\eclipse-workspace\EmployeeJDBCLayeredApproach\pom.xml.
+2021-10-20 10:40:17,089 [Worker-8: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-20 10:40:17,091 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\eclipse-workspace\EmployeeJDBCLayeredApproach\src\main\resources
+2021-10-20 10:40:17,098 [Worker-8: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-20 10:40:17,099 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\eclipse-workspace\EmployeeJDBCLayeredApproach\src\test\resources
+2021-10-20 10:40:20,249 [Worker-4: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-20 10:40:20,250 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\eclipse-workspace\EmployeeJDBCLayeredApproach\src\main\resources
+2021-10-20 10:40:20,252 [Worker-4: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-20 10:40:20,252 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\eclipse-workspace\EmployeeJDBCLayeredApproach\src\test\resources
+2021-10-20 10:41:00,166 [Worker-15: Rebuilding] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-20 10:41:00,167 [Worker-15: Rebuilding] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\eclipse-workspace\EmployeeJDBCLayeredApproach\src\main\resources
+2021-10-20 10:41:00,170 [Worker-15: Rebuilding] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-20 10:41:00,171 [Worker-15: Rebuilding] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\eclipse-workspace\EmployeeJDBCLayeredApproach\src\test\resources
+2021-10-20 10:41:26,050 [Worker-14: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-20 10:41:26,051 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\eclipse-workspace\EmployeeJDBCLayeredApproach\src\main\resources
+2021-10-20 10:41:26,055 [Worker-14: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-20 10:41:26,056 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\eclipse-workspace\EmployeeJDBCLayeredApproach\src\test\resources
+2021-10-20 10:41:28,304 [Worker-6: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-20 10:41:28,305 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\eclipse-workspace\EmployeeJDBCLayeredApproach\src\main\resources
+2021-10-20 10:41:28,307 [Worker-6: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-20 10:41:28,307 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\eclipse-workspace\EmployeeJDBCLayeredApproach\src\test\resources
+2021-10-20 10:41:30,861 [Worker-1: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-20 10:41:30,862 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\eclipse-workspace\EmployeeJDBCLayeredApproach\src\main\resources
+2021-10-20 10:41:30,864 [Worker-1: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-20 10:41:30,865 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\eclipse-workspace\EmployeeJDBCLayeredApproach\src\test\resources
+2021-10-20 10:41:52,837 [Worker-18: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-20 10:41:52,837 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\eclipse-workspace\EmployeeJDBCLayeredApproach\src\main\resources
+2021-10-20 10:41:52,839 [Worker-18: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-20 10:41:52,840 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\eclipse-workspace\EmployeeJDBCLayeredApproach\src\test\resources
+2021-10-20 10:44:38,762 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2021-10-20 10:45:28,622 [Worker-5: Update Maven projects configuration] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2021-10-20 10:45:29,347 [Worker-5: Update Maven projects configuration] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: EmployeeJDBCLayeredProject:EmployeeJDBCLayeredProject:0.0.1-SNAPSHOT @ D:\work-space\SpringJDBC\EmployeeSpringDaoProjectPart1\pom.xml.
+2021-10-20 10:45:30,552 [Worker-5: Update Maven projects configuration] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-jdbc/5.3.10/spring-jdbc-5.3.10.pom
+2021-10-20 10:45:30,866 [Worker-5: Update Maven projects configuration] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-jdbc/5.3.10/spring-jdbc-5.3.10.pom
+2021-10-20 10:45:31,034 [Worker-5: Update Maven projects configuration] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-tx/5.3.10/spring-tx-5.3.10.pom
+2021-10-20 10:45:31,209 [Worker-5: Update Maven projects configuration] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-tx/5.3.10/spring-tx-5.3.10.pom
+2021-10-20 10:45:31,383 [AetherRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-tx/5.3.10/spring-tx-5.3.10.jar
+2021-10-20 10:45:31,556 [AetherRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-jdbc/5.3.10/spring-jdbc-5.3.10.jar
+2021-10-20 10:45:32,299 [AetherRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-tx/5.3.10/spring-tx-5.3.10.jar
+2021-10-20 10:45:32,455 [AetherRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-jdbc/5.3.10/spring-jdbc-5.3.10.jar
+2021-10-20 10:45:33,255 [Worker-5: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /EmployeeSpringDaoProjectPart1/src
+2021-10-20 10:45:33,256 [Worker-5: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /EmployeeSpringDaoProjectPart1/src/test/java because it overlaps with /EmployeeSpringDaoProjectPart1/src
+2021-10-20 10:45:33,651 [Worker-5: Update Maven projects configuration] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 5 sec
+2021-10-20 10:45:34,009 [Worker-13: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-20 10:45:34,010 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\SpringJDBC\EmployeeSpringDaoProjectPart1\src\main\resources
+2021-10-20 10:45:34,012 [Worker-13: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-20 10:45:34,012 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\SpringJDBC\EmployeeSpringDaoProjectPart1\src\test\resources
+2021-10-20 10:45:34,534 [Worker-8: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-jdbc/5.3.10/spring-jdbc-5.3.10-sources.jar
+2021-10-20 10:45:35,412 [Worker-8: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-jdbc/5.3.10/spring-jdbc-5.3.10-sources.jar
+2021-10-20 10:45:35,448 [Worker-8: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-jdbc:5.3.10
+2021-10-20 10:45:36,090 [Worker-8: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-tx/5.3.10/spring-tx-5.3.10-sources.jar
+2021-10-20 10:45:36,926 [Worker-8: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-tx/5.3.10/spring-tx-5.3.10-sources.jar
+2021-10-20 10:45:36,969 [Worker-8: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-tx:5.3.10
+2021-10-20 10:45:36,972 [Worker-8: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-jdbc:5.3.10
+2021-10-20 10:45:36,976 [Worker-8: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-tx:5.3.10
+2021-10-20 10:45:37,213 [Worker-7: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-20 10:45:37,213 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\SpringJDBC\EmployeeSpringDaoProjectPart1\src\main\resources
+2021-10-20 10:45:37,215 [Worker-7: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-20 10:45:37,216 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\SpringJDBC\EmployeeSpringDaoProjectPart1\src\test\resources
+2021-10-20 10:45:46,384 [Worker-6: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: EmployeeJDBCLayeredProject:EmployeeJDBCLayeredProject:0.0.1-SNAPSHOT @ D:\work-space\SpringJDBC\EmployeeSpringDaoProjectPart01\pom.xml.
+2021-10-20 10:45:46,486 [Worker-6: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-20 10:45:46,487 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\SpringJDBC\EmployeeSpringDaoProjectPart01\src\main\resources
+2021-10-20 10:45:46,488 [Worker-6: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-20 10:45:46,489 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\SpringJDBC\EmployeeSpringDaoProjectPart01\src\test\resources
+2021-10-20 10:45:47,734 [Worker-8: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-20 10:45:47,735 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\SpringJDBC\EmployeeSpringDaoProjectPart01\src\main\resources
+2021-10-20 10:45:47,736 [Worker-8: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-20 10:45:47,738 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\SpringJDBC\EmployeeSpringDaoProjectPart01\src\test\resources
+2021-10-20 10:46:16,053 [Worker-1: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: EmployeeJDBCLayeredProject:EmployeeJDBCLayeredProject:0.0.1-SNAPSHOT @ D:\work-space\SpringJDBC\EmployeeSpringDaoProjectPart1\pom.xml.
+2021-10-20 10:46:16,168 [Worker-1: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-20 10:46:16,169 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\SpringJDBC\EmployeeSpringDaoProjectPart1\src\main\resources
+2021-10-20 10:46:16,171 [Worker-1: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-20 10:46:16,172 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\SpringJDBC\EmployeeSpringDaoProjectPart1\src\test\resources
+2021-10-20 10:46:17,493 [Worker-16: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-20 10:46:17,494 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\SpringJDBC\EmployeeSpringDaoProjectPart1\src\main\resources
+2021-10-20 10:46:17,497 [Worker-16: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-20 10:46:17,499 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\SpringJDBC\EmployeeSpringDaoProjectPart1\src\test\resources
+2021-10-20 10:47:09,921 [Worker-15: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: EmployeeJDBCLayeredApproach:EmployeeJDBCLayeredApproach:0.0.1-SNAPSHOT @ D:\work-space\SpringJDBC\EmployeeSpringDaoProjectPart1\pom.xml.
+2021-10-20 10:47:10,178 [Worker-15: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-20 10:47:10,178 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\SpringJDBC\EmployeeSpringDaoProjectPart1\src\main\resources
+2021-10-20 10:47:10,180 [Worker-15: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-20 10:47:10,181 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\SpringJDBC\EmployeeSpringDaoProjectPart1\src\test\resources
+2021-10-20 10:47:11,346 [Worker-8: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-20 10:47:11,347 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\SpringJDBC\EmployeeSpringDaoProjectPart1\src\main\resources
+2021-10-20 10:47:11,349 [Worker-8: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-20 10:47:11,350 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\SpringJDBC\EmployeeSpringDaoProjectPart1\src\test\resources
+2021-10-20 10:47:59,899 [Worker-4: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: EmployeeJDBCLayeredApproach:EmployeeJDBCLayeredApproach:0.0.1-SNAPSHOT @ D:\work-space\SpringJDBC\EmployeeSpringDaoProjectPart1\pom.xml.
+2021-10-20 10:48:00,114 [Worker-4: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-20 10:48:00,114 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\SpringJDBC\EmployeeSpringDaoProjectPart1\src\main\resources
+2021-10-20 10:48:00,116 [Worker-4: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-20 10:48:00,116 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\SpringJDBC\EmployeeSpringDaoProjectPart1\src\test\resources
+2021-10-20 10:48:01,253 [Worker-8: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-20 10:48:01,254 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\SpringJDBC\EmployeeSpringDaoProjectPart1\src\main\resources
+2021-10-20 10:48:01,256 [Worker-8: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-20 10:48:01,257 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\SpringJDBC\EmployeeSpringDaoProjectPart1\src\test\resources
+2021-10-20 10:48:43,293 [Worker-18: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-20 10:48:43,295 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\SpringJDBC\EmployeeSpringDaoProjectPart1\src\main\resources
+2021-10-20 10:48:43,298 [Worker-18: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-20 10:48:43,300 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\SpringJDBC\EmployeeSpringDaoProjectPart1\src\test\resources
+2021-10-20 10:50:12,160 [Worker-12: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-20 10:50:12,161 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\SpringJDBC\EmployeeSpringDaoProjectPart1\src\main\resources
+2021-10-20 10:50:12,162 [Worker-12: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-20 10:50:12,162 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\SpringJDBC\EmployeeSpringDaoProjectPart1\src\test\resources
+2021-10-20 10:52:43,607 [Worker-1: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-20 10:52:43,608 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\SpringJDBC\EmployeeSpringDaoProjectPart1\src\main\resources
+2021-10-20 10:52:43,609 [Worker-1: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-20 10:52:43,610 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\SpringJDBC\EmployeeSpringDaoProjectPart1\src\test\resources
+2021-10-20 10:56:41,538 [Worker-12: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-20 10:56:41,539 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\SpringJDBC\EmployeeSpringDaoProjectPart1\src\main\resources
+2021-10-20 10:56:41,540 [Worker-12: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-20 10:56:41,540 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\SpringJDBC\EmployeeSpringDaoProjectPart1\src\test\resources
+2021-10-20 10:57:26,111 [Worker-10: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-20 10:57:26,111 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\SpringJDBC\EmployeeSpringDaoProjectPart1\src\main\resources
+2021-10-20 10:57:26,112 [Worker-10: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-20 10:57:26,113 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\SpringJDBC\EmployeeSpringDaoProjectPart1\src\test\resources
+2021-10-20 10:58:21,264 [Worker-4: Launching EmployeeMain] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-20 10:58:21,266 [Worker-4: Launching EmployeeMain] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\SpringJDBC\EmployeeSpringDaoProjectPart1\src\main\resources
+2021-10-20 10:58:21,269 [Worker-4: Launching EmployeeMain] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-20 10:58:21,270 [Worker-4: Launching EmployeeMain] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\SpringJDBC\EmployeeSpringDaoProjectPart1\src\test\resources
+2021-10-20 10:58:57,221 [Worker-13: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-20 10:58:57,222 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\SpringJDBC\EmployeeSpringDaoProjectPart1\src\main\resources
+2021-10-20 10:58:57,223 [Worker-13: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-20 10:58:57,223 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\SpringJDBC\EmployeeSpringDaoProjectPart1\src\test\resources
+2021-10-20 11:02:19,675 [Worker-14: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-20 11:02:19,676 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\SpringJDBC\EmployeeSpringDaoProjectPart1\src\main\resources
+2021-10-20 11:02:19,677 [Worker-14: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-20 11:02:19,677 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\SpringJDBC\EmployeeSpringDaoProjectPart1\src\test\resources
+2021-10-20 11:02:58,053 [Worker-13: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-20 11:02:58,054 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\SpringJDBC\EmployeeSpringDaoProjectPart1\src\main\resources
+2021-10-20 11:02:58,055 [Worker-13: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-20 11:02:58,056 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\SpringJDBC\EmployeeSpringDaoProjectPart1\src\test\resources
+2021-10-20 11:03:34,223 [Worker-8: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-20 11:03:34,224 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\SpringJDBC\EmployeeSpringDaoProjectPart1\src\main\resources
+2021-10-20 11:03:34,225 [Worker-8: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-20 11:03:34,225 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\SpringJDBC\EmployeeSpringDaoProjectPart1\src\test\resources
+2021-10-20 11:03:48,576 [Worker-13: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-20 11:03:48,577 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\SpringJDBC\EmployeeSpringDaoProjectPart1\src\main\resources
+2021-10-20 11:03:48,578 [Worker-13: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-20 11:03:48,578 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\SpringJDBC\EmployeeSpringDaoProjectPart1\src\test\resources
+2021-10-20 11:03:58,922 [Worker-13: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-20 11:03:58,922 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\SpringJDBC\EmployeeSpringDaoProjectPart1\src\main\resources
+2021-10-20 11:03:58,923 [Worker-13: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-20 11:03:58,924 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\SpringJDBC\EmployeeSpringDaoProjectPart1\src\test\resources
+2021-10-20 11:05:03,090 [Worker-13: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-20 11:05:03,090 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\SpringJDBC\EmployeeSpringDaoProjectPart1\src\main\resources
+2021-10-20 11:05:03,091 [Worker-13: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-20 11:05:03,092 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\SpringJDBC\EmployeeSpringDaoProjectPart1\src\test\resources
+2021-10-20 11:05:16,299 [Worker-1: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-20 11:05:16,300 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\SpringJDBC\EmployeeSpringDaoProjectPart1\src\main\resources
+2021-10-20 11:05:16,302 [Worker-1: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-20 11:05:16,303 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\SpringJDBC\EmployeeSpringDaoProjectPart1\src\test\resources
+2021-10-20 11:05:43,983 [Worker-8: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-20 11:05:43,983 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\SpringJDBC\EmployeeSpringDaoProjectPart1\src\main\resources
+2021-10-20 11:05:43,984 [Worker-8: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-20 11:05:43,985 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\SpringJDBC\EmployeeSpringDaoProjectPart1\src\test\resources
+2021-10-20 11:06:21,837 [Worker-16: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-20 11:06:21,838 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\SpringJDBC\EmployeeSpringDaoProjectPart1\src\main\resources
+2021-10-20 11:06:21,839 [Worker-16: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-20 11:06:21,839 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\SpringJDBC\EmployeeSpringDaoProjectPart1\src\test\resources
+2021-10-20 11:13:58,824 [Worker-8: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-20 11:13:58,824 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\SpringJDBC\EmployeeSpringDaoProjectPart1\src\main\resources
+2021-10-20 11:13:58,825 [Worker-8: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-20 11:13:58,826 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\SpringJDBC\EmployeeSpringDaoProjectPart1\src\test\resources
+2021-10-20 11:16:55,256 [Worker-1: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-20 11:16:55,256 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\SpringJDBC\EmployeeSpringDaoProjectPart1\src\main\resources
+2021-10-20 11:16:55,257 [Worker-1: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-20 11:16:55,258 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\SpringJDBC\EmployeeSpringDaoProjectPart1\src\test\resources
+2021-10-20 11:17:35,114 [Worker-13: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-20 11:17:35,114 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\SpringJDBC\EmployeeSpringDaoProjectPart1\src\main\resources
+2021-10-20 11:17:35,116 [Worker-13: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-20 11:17:35,116 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\SpringJDBC\EmployeeSpringDaoProjectPart1\src\test\resources
+2021-10-20 11:18:27,078 [Worker-13: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-20 11:18:27,079 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\SpringJDBC\EmployeeSpringDaoProjectPart1\src\main\resources
+2021-10-20 11:18:27,080 [Worker-13: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-20 11:18:27,080 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\SpringJDBC\EmployeeSpringDaoProjectPart1\src\test\resources
+2021-10-20 11:18:40,720 [Worker-4: Launching EmployeeMain] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-20 11:18:40,720 [Worker-4: Launching EmployeeMain] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\SpringJDBC\EmployeeSpringDaoProjectPart1\src\main\resources
+2021-10-20 11:18:40,721 [Worker-4: Launching EmployeeMain] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-20 11:18:40,722 [Worker-4: Launching EmployeeMain] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\SpringJDBC\EmployeeSpringDaoProjectPart1\src\test\resources
+2021-10-20 11:19:22,428 [Worker-16: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-20 11:19:22,429 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\SpringJDBC\EmployeeSpringDaoProjectPart1\src\main\resources
+2021-10-20 11:19:22,430 [Worker-16: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-20 11:19:22,430 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\SpringJDBC\EmployeeSpringDaoProjectPart1\src\test\resources
+2021-10-20 11:19:48,339 [Worker-16: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-20 11:19:48,340 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\SpringJDBC\EmployeeSpringDaoProjectPart1\src\main\resources
+2021-10-20 11:19:48,340 [Worker-16: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-20 11:19:48,341 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\SpringJDBC\EmployeeSpringDaoProjectPart1\src\test\resources
+2021-10-20 12:36:45,020 [Worker-8: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: EmployeeJDBCLayeredApproach:EmployeeJDBCLayeredApproach:0.0.1-SNAPSHOT @ D:\work-space\SpringJDBC\EmployeeSpringDaoProjectPart2\pom.xml.
+2021-10-20 12:36:45,131 [Worker-8: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-20 12:36:45,134 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\SpringJDBC\EmployeeSpringDaoProjectPart2\src\main\resources
+2021-10-20 12:36:45,135 [Worker-8: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-20 12:36:45,136 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\SpringJDBC\EmployeeSpringDaoProjectPart2\src\test\resources
+2021-10-20 12:36:46,341 [Worker-8: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-20 12:36:46,341 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\SpringJDBC\EmployeeSpringDaoProjectPart2\src\main\resources
+2021-10-20 12:36:46,342 [Worker-8: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-20 12:36:46,343 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\SpringJDBC\EmployeeSpringDaoProjectPart2\src\test\resources
+2021-10-20 12:41:02,312 [Worker-16: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-20 12:41:02,313 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\SpringJDBC\EmployeeSpringDaoProjectPart2\src\main\resources
+2021-10-20 12:41:02,314 [Worker-16: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-20 12:41:02,314 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\SpringJDBC\EmployeeSpringDaoProjectPart2\src\test\resources
+2021-10-20 12:43:37,984 [Worker-8: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-20 12:43:37,985 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\SpringJDBC\EmployeeSpringDaoProjectPart2\src\main\resources
+2021-10-20 12:43:37,988 [Worker-8: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-20 12:43:37,988 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\SpringJDBC\EmployeeSpringDaoProjectPart2\src\test\resources
+2021-10-20 12:50:43,118 [Worker-22: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-20 12:50:43,119 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\SpringJDBC\EmployeeSpringDaoProjectPart2\src\main\resources
+2021-10-20 12:50:43,119 [Worker-22: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-20 12:50:43,119 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\SpringJDBC\EmployeeSpringDaoProjectPart2\src\test\resources
+2021-10-20 12:50:48,897 [Worker-25: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-20 12:50:48,898 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\SpringJDBC\EmployeeSpringDaoProjectPart2\src\main\resources
+2021-10-20 12:50:48,899 [Worker-25: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-20 12:50:48,899 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\SpringJDBC\EmployeeSpringDaoProjectPart2\src\test\resources
+2021-10-20 12:51:07,125 [Worker-21: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-20 12:51:07,125 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\SpringJDBC\EmployeeSpringDaoProjectPart2\src\main\resources
+2021-10-20 12:51:07,126 [Worker-21: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-20 12:51:07,127 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\SpringJDBC\EmployeeSpringDaoProjectPart2\src\test\resources
+2021-10-20 12:53:38,625 [Worker-23: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-20 12:53:38,626 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\SpringJDBC\EmployeeSpringDaoProjectPart2\src\main\resources
+2021-10-20 12:53:38,627 [Worker-23: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-20 12:53:38,627 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\SpringJDBC\EmployeeSpringDaoProjectPart2\src\test\resources
+2021-10-20 12:55:34,887 [Worker-21: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-20 12:55:34,889 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\SpringJDBC\EmployeeSpringDaoProjectPart2\src\main\resources
+2021-10-20 12:55:34,891 [Worker-21: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-20 12:55:34,891 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\SpringJDBC\EmployeeSpringDaoProjectPart2\src\test\resources
+2021-10-20 12:55:58,061 [Worker-21: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-20 12:55:58,062 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\SpringJDBC\EmployeeSpringDaoProjectPart2\src\main\resources
+2021-10-20 12:55:58,062 [Worker-21: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-20 12:55:58,063 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\SpringJDBC\EmployeeSpringDaoProjectPart2\src\test\resources
+2021-10-20 13:00:23,750 [Worker-26: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-20 13:00:23,751 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\SpringJDBC\EmployeeSpringDaoProjectPart2\src\main\resources
+2021-10-20 13:00:23,753 [Worker-26: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-20 13:00:23,755 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\SpringJDBC\EmployeeSpringDaoProjectPart2\src\test\resources
+2021-10-20 13:03:04,506 [Worker-21: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-20 13:03:04,506 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\SpringJDBC\EmployeeSpringDaoProjectPart2\src\main\resources
+2021-10-20 13:03:04,507 [Worker-21: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-20 13:03:04,507 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\SpringJDBC\EmployeeSpringDaoProjectPart2\src\test\resources
+2021-10-20 13:05:27,937 [Worker-26: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-20 13:05:27,937 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\SpringJDBC\EmployeeSpringDaoProjectPart2\src\main\resources
+2021-10-20 13:05:27,938 [Worker-26: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-20 13:05:27,939 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\SpringJDBC\EmployeeSpringDaoProjectPart2\src\test\resources
+2021-10-20 13:09:27,542 [Worker-8: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-20 13:09:27,542 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\SpringJDBC\EmployeeSpringDaoProjectPart2\src\main\resources
+2021-10-20 13:09:27,543 [Worker-8: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-20 13:09:27,543 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\SpringJDBC\EmployeeSpringDaoProjectPart2\src\test\resources
+2021-10-20 13:09:55,234 [Worker-29: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-20 13:09:55,235 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\SpringJDBC\EmployeeSpringDaoProjectPart2\src\main\resources
+2021-10-20 13:09:55,236 [Worker-29: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-20 13:09:55,236 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\SpringJDBC\EmployeeSpringDaoProjectPart2\src\test\resources
+2021-10-20 13:10:07,386 [Worker-28: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-20 13:10:07,387 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\SpringJDBC\EmployeeSpringDaoProjectPart2\src\main\resources
+2021-10-20 13:10:07,388 [Worker-28: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-20 13:10:07,389 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\SpringJDBC\EmployeeSpringDaoProjectPart2\src\test\resources
+2021-10-20 13:15:40,596 [Worker-30: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-20 13:15:40,597 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\SpringJDBC\EmployeeSpringDaoProjectPart2\src\main\resources
+2021-10-20 13:15:40,598 [Worker-30: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-20 13:15:40,598 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\SpringJDBC\EmployeeSpringDaoProjectPart2\src\test\resources
+2021-10-20 14:16:55,030 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2021-10-20 14:18:20,332 [Worker-4: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-20 14:18:20,334 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\SpringJDBC\EmployeeSpringDaoProjectPart2\src\main\resources
+2021-10-20 14:18:20,339 [Worker-4: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-20 14:18:20,343 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\SpringJDBC\EmployeeSpringDaoProjectPart2\src\test\resources
+2021-10-20 14:20:01,522 [Worker-20: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-20 14:20:01,524 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\SpringJDBC\EmployeeSpringDaoProjectPart2\src\main\resources
+2021-10-20 14:20:01,526 [Worker-20: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-20 14:20:01,530 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\SpringJDBC\EmployeeSpringDaoProjectPart2\src\test\resources
+2021-10-20 14:27:24,930 [Worker-3: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-20 14:27:24,931 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\SpringJDBC\EmployeeSpringDaoProjectPart2\src\main\resources
+2021-10-20 14:27:24,932 [Worker-3: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-20 14:27:24,933 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\SpringJDBC\EmployeeSpringDaoProjectPart2\src\test\resources
+2021-10-20 14:30:00,545 [Worker-21: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-20 14:30:00,545 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\SpringJDBC\EmployeeSpringDaoProjectPart2\src\main\resources
+2021-10-20 14:30:00,546 [Worker-21: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-20 14:30:00,547 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\SpringJDBC\EmployeeSpringDaoProjectPart2\src\test\resources
+2021-10-20 14:30:32,978 [Worker-3: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-20 14:30:32,979 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\SpringJDBC\EmployeeSpringDaoProjectPart2\src\main\resources
+2021-10-20 14:30:32,981 [Worker-3: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-20 14:30:32,982 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\SpringJDBC\EmployeeSpringDaoProjectPart2\src\test\resources
+2021-10-20 14:30:53,827 [Worker-3: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-20 14:30:53,829 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\SpringJDBC\EmployeeSpringDaoProjectPart2\src\main\resources
+2021-10-20 14:30:53,830 [Worker-3: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-20 14:30:53,831 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\SpringJDBC\EmployeeSpringDaoProjectPart2\src\test\resources
+2021-10-20 14:32:23,354 [Worker-8: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-20 14:32:23,355 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\SpringJDBC\EmployeeSpringDaoProjectPart2\src\main\resources
+2021-10-20 14:32:23,356 [Worker-8: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-20 14:32:23,356 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\SpringJDBC\EmployeeSpringDaoProjectPart2\src\test\resources
+2021-10-20 14:33:11,391 [Worker-22: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: EmployeeJDBCLayeredApproach:EmployeeJDBCLayeredApproach:0.0.1-SNAPSHOT @ D:\work-space\SpringJDBC\EmployeeSpringDaoProjectPart2Payslip\pom.xml.
+2021-10-20 14:33:11,613 [Worker-22: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-20 14:33:11,614 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\SpringJDBC\EmployeeSpringDaoProjectPart2Payslip\src\main\resources
+2021-10-20 14:33:11,617 [Worker-22: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-20 14:33:11,619 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\SpringJDBC\EmployeeSpringDaoProjectPart2Payslip\src\test\resources
+2021-10-20 14:33:12,852 [Worker-8: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-20 14:33:12,852 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\SpringJDBC\EmployeeSpringDaoProjectPart2Payslip\src\main\resources
+2021-10-20 14:33:12,853 [Worker-8: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-20 14:33:12,854 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\SpringJDBC\EmployeeSpringDaoProjectPart2Payslip\src\test\resources
+2021-10-20 14:33:35,037 [Worker-7: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-20 14:33:35,037 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\SpringJDBC\EmployeeSpringDaoProjectPart2Payslip\src\main\resources
+2021-10-20 14:33:35,040 [Worker-7: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-20 14:33:35,042 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\SpringJDBC\EmployeeSpringDaoProjectPart2Payslip\src\test\resources
+2021-10-20 14:36:05,529 [Worker-24: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-20 14:36:05,530 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\SpringJDBC\EmployeeSpringDaoProjectPart2Payslip\src\main\resources
+2021-10-20 14:36:05,531 [Worker-24: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-10-20 14:36:05,531 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\SpringJDBC\EmployeeSpringDaoProjectPart2Payslip\src\test\resources

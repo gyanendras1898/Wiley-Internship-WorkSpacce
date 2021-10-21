@@ -1,0 +1,11 @@
+package com.gyan.demo;
+
+public class GoodMorning implements Greet {
+
+	@Override
+	public void greet(String name) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

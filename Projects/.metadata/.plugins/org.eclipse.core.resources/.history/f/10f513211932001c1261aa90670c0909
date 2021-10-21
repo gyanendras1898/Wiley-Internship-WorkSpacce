@@ -1,0 +1,11 @@
+package com.gyan.service;
+
+import com.gyan.beans.Card;
+
+public interface MetroService {
+	Card registerUser();
+	boolean swipeIn();
+	double swipeOut();
+	void showOutput();
+	
+}

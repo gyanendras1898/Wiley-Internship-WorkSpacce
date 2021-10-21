@@ -1,0 +1,7 @@
+package com.gyan.demo;
+
+public interface Greet {
+	
+	void greet(String name);
+
+}

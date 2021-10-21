@@ -1,0 +1,25 @@
+package exceptions.employee.database;
+
+import exceptions.employee.beans.Employee;
+
+public class EmployeeList {
+	private Employee[] employees=new Employee[10];
+	private int empCount;
+
+	public int getEmpCount() {
+		return empCount;
+	}
+
+	public void setEmpCount(int empCount) {
+		this.empCount = empCount;
+	}
+
+	public Employee[] getEmployees() {
+		return employees;
+	}
+
+	public void setEmployees(Employee[] employees) {
+		this.employees = employees;
+	}
+
+}

@@ -1,0 +1,8 @@
+package com.piyush.exceptions;
+
+public class CourseRegistraionFullException extends Exception {
+	public CourseRegistraionFullException(String message) {
+		super(message);
+	}
+
+}

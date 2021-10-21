@@ -1,0 +1,10 @@
+package exceptions.employee.service;
+
+import exceptions.employee.beans.Employee;
+
+public interface EmployeeService {
+	
+	void validateAge(Employee employee);
+	boolean addEmployee(Employee employee);
+
+}

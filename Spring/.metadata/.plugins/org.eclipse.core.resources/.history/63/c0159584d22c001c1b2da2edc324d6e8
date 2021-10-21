@@ -1,0 +1,11 @@
+package com.producer;
+
+public class SMS implements Message {
+
+	@Override
+	public void send() {
+		// TODO Auto-generated method stub
+
+	}
+
+}

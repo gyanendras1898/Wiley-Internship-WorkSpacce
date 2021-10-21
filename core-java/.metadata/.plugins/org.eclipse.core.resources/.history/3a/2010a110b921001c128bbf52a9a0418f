@@ -1,0 +1,55 @@
+package day8.tictactok;
+
+public class TickTakTok {
+	
+	private static boolean tick=true;
+	private static boolean tak=false;
+	private static boolean tok=false;
+	
+	synchronized public void showTick() {
+		while(tick==false) {
+			try {
+				wait();
+			} catch (InterruptedException e) {
+				e.printStackTrace();
+			}
+		}
+		System.out.println(Thread.currentThread().getName());
+		tick=false;
+		tak=true;
+		notifyAll();
+				
+	}
+	
+	synchronized public void showTak() {
+		while(tak==false) {
+			try {
+				wait();
+			} catch (InterruptedException e) {
+				e.printStackTrace();
+			}
+		}
+		System.out.println(Thread.currentThread().getName());
+		tak=false;
+		tok=true;
+		notifyAll();
+		
+	}
+	
+	synchronized public void showTok() {
+		while(tok==false) {
+			try {
+				wait();
+			} catch (InterruptedException e) {
+				e.printStackTrace();
+			}
+		}
+		System.out.println(Thread.currentThread().getName());
+		tok=false;
+		tick=true;
+		notifyAll();
+
+	}
+
+
+}

@@ -1,0 +1,16 @@
+package com.piyush.presentation;
+
+public class TelephoneDirectoryPresentation {
+
+
+	public void performMenu(int choice) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	public void showMenu() {
+		// TODO Auto-generated method stub
+		
+	}
+
+}

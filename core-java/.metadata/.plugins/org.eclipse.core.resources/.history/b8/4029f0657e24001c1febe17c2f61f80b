@@ -1,0 +1,33 @@
+package day9.inputoutput;
+
+import java.io.FileInputStream;
+import java.io.IOException;
+import java.io.ObjectInputStream;
+
+public class FileReading {
+	public static void main(String[] args) {
+		
+		try(FileInputStream fis=new FileInputStream("practiceDB");
+				ObjectInputStream ois=new ObjectInputStream(fis);){
+			
+			Employee e = null;
+			Employee e2=null;
+			try {
+				e = (Employee)ois.readObject();
+				while(e!=null) {
+					System.out.println(e);
+					e=(Employee)ois.readObject();
+				}
+			} catch (ClassNotFoundException e1) {
+				e1.printStackTrace();
+			}
+			System.out.println(e.getName());
+			System.out.println(e2);
+			
+			
+		}catch (IOException e) {
+			e.printStackTrace();
+		}
+	}
+
+}

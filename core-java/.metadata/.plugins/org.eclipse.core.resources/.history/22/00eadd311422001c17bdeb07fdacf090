@@ -1,0 +1,12 @@
+package tollplaza;
+
+public class Tollplaza {
+	private Vehicle vehilce;
+	
+	public Tollplaza(Vehicle vehilce) {
+		super();
+		this.vehilce = vehilce;
+	}
+
+
+}

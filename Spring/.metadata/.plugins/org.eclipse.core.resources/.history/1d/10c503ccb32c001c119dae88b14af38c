@@ -1,0 +1,5 @@
+package com.gyan.demo;
+
+public interface Greet {
+
+}

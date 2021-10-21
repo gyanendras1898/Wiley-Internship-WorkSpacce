@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;InvalidInputException.java&apos; to &apos;EmployeeCourseLayeredApproachWithExceptionHandling/src/com.piyush.exceptions&apos;&#x0D;&#x0A;- Original project: &apos;EmployeeListLayeredApproachWithUserDefineExceptionHandling&apos;&#x0D;&#x0A;- Destination element: &apos;EmployeeCourseLayeredApproachWithExceptionHandling/src/com.piyush.exceptions&apos;&#x0D;&#x0A;- Original element: &apos;exceptions.employee.exceptions.InvalidInputException.java&apos;" description="Copy compilation unit" destination="=EmployeeCourseLayeredApproachWithExceptionHandling/src&lt;com.piyush.exceptions" element1="/src&lt;exceptions.employee.exceptions{InvalidInputException.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1632971202808" units="1" version="1.0"/>
+</session>

@@ -1,0 +1,33 @@
+package exceptions.employee.persistence;
+
+import exceptions.employee.beans.Employee;
+import exceptions.employee.database.EmployeeDataBase;
+import exceptions.employee.exceptions.EmployeeAlreadyExistException;
+import exceptions.employee.exceptions.EmployeeListOverflowException;
+
+public class EmployeeDaoImpl implements EmployeeDao {
+	
+	EmployeeDataBase employeeDataBase=new EmployeeDataBase();
+
+	@Override
+	public boolean addEmployee(Employee employee) throws EmployeeAlreadyExistException, EmployeeListOverflowException {
+		
+		Employee[] employees=employeeDataBase.getEmployees();
+		
+		if(employeeDataBase.getEmpCount()<employeeDataBase.maxEmpCount) {
+			for(int i=0;i<employeeDataBase.maxEmpCount;i++) {
+				if(employees[i]==null) {
+					employees[i]=employee;
+					return true;
+				}
+				if(employees[i].getName().equals(employee.getName()))
+					throw new EmployeeAlreadyExistException("Employee with name "+employee.getName()+" already exist");	
+			}
+		}else {
+			throw new EmployeeListOverflowException("Employee List in dataBase is full");
+		}
+		
+		return false;
+	}
+
+}

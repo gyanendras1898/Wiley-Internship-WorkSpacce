@@ -1,0 +1,30 @@
+package com.piyush.client;
+
+import java.io.IOException;
+import java.util.Scanner;
+
+
+import com.piyush.presentation.EmployeePresentation;
+import com.piyush.presentation.EmployeePresentationImpl;
+
+public class EmployeeCourseProjectClient {
+	
+	public static void main(String args[])Throws IOException {
+		EmployeePresentation employeePresentation=new EmployeePresentationImpl();
+		Scanner sc=new Scanner(System.in);
+		while(true) {
+			employeePresentation.showMenu();
+			System.out.println("Enter Choice : ");
+			try {
+			int choice=sc.nextInt();
+			employeePresentation.performMenu(choice);
+			}
+			catch(IOException exception) {
+				System.out.println("Please Enter valid options");
+			}
+			
+			
+		}
+	}
+
+}

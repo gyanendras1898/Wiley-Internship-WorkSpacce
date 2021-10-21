@@ -1,0 +1,24 @@
+package exceptions.employee.service;
+
+import exceptions.employee.beans.Employee;
+import exceptions.employee.exceptions.EmployeeAgeOutOfRangeException;
+import exceptions.employee.persistence.EmployeeDao;
+import exceptions.employee.persistence.EmployeeDaoImpl;
+
+public class EmployeeServiceImpl implements EmployeeService {
+	
+	EmployeeDao employeeDao=new EmployeeDaoImpl();
+
+	@Override
+	public boolean validateAge(Employee employee) throws EmployeeAgeOutOfRangeException {
+		return employeeDao.validateAge(employee);
+
+	}
+
+	@Override
+	public boolean addEmployee(Employee employee) {
+		// TODO Auto-generated method stub
+		return false;
+	}
+
+}

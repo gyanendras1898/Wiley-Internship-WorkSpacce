@@ -1,0 +1,10 @@
+package tollplaza;
+
+public class Tollplaza {
+//	Bridge bridge=new Bridge();
+	synchronized public void pass(Vehicle vehicle) {
+		System.out.println(vehicle.getName()+" crosses toll booth  : "+Thread.currentThread().getName());
+		Bridge.pass(vehicle);
+	}
+
+}

@@ -1,0 +1,15 @@
+package com.piyush.client;
+
+import com.piyush.persistance.TelephoneDirectoryDao;
+
+public class TelephoneMain {
+	
+	public static void main(String[] args) {
+		
+		TelephoneDirectoryDao telephoneDir=new TelephoneDirectoryDao();
+		
+		
+		
+	}
+
+}

@@ -1,0 +1,17 @@
+package thread.henowner;
+
+public class Egg implements Runnable {
+	private static int sum=1;
+	private static int count=1;
+
+	@Override
+	public void run() {
+		while(sum<100) {
+			System.out.println("Hen laid the Egg - "+count);
+			System.out.println("Owner gained Rs "+(count*2));
+			sum+=(count*2);
+			count++;
+		}	
+	}
+
+}

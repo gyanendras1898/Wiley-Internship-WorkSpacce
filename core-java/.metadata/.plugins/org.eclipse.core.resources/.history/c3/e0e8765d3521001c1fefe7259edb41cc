@@ -1,0 +1,27 @@
+package exceptions.employee;
+
+public class Employee {
+	private String name;
+	private int ags;
+	
+	public Employee(String name, int ags) {
+		super();
+		this.name = name;
+		this.ags = ags;
+	}
+	
+	public String getName() {
+		return name;
+	}
+	public void setName(String name) {
+		this.name = name;
+	}
+	public int getAgs() {
+		return ags;
+	}
+	public void setAgs(int ags) {
+		this.ags = ags;
+	}
+	
+
+}

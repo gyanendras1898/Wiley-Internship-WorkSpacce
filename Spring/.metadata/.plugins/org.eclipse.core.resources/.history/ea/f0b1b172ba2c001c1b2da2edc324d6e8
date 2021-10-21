@@ -1,0 +1,22 @@
+package com.gyan.consumer;
+
+import com.gyan.demo.Greet;
+import com.gyan.demo.Morning;
+
+public class GreetConsumer {
+	
+public static void main(String[] args) {
+		
+		Greet greet=new Morning();
+		
+		greet.wish("Piyush");
+//		Resource resource=new ClassPathResource("greet.xml");
+
+//		BeanFactory springContainer=new XmlBeanFactory(resource);
+//		
+//		Greet greet=(Greet)springContainer.getBean("eve");
+//		greet.wish("Piyush");
+
+	}
+
+}

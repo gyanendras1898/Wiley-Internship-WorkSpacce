@@ -1,0 +1,9 @@
+package thread.henowner;
+
+public class Hen {
+	
+	synchronized public void layEgg() {
+		
+	}
+
+}

@@ -1,0 +1,19 @@
+package com.gyan.consumer;
+import org.springframework.core.io.Resource;
+
+public class GreetConsumer {
+	
+public static void main(String[] args) {
+	
+	Resource resource=new ClassPathResource("greet.xml");
+	BeanFactory springContainer=new XmlBeanFactory(resource);
+	
+	Greet greetMrg=(Greet)springContainer.getBean("mrng");
+	greetMrg.wish("Piyush");
+	
+	Greet greetEve=(Greet)springContainer.getBean("eve");
+	greetEve.wish("Piyush");
+	
+	}
+
+}

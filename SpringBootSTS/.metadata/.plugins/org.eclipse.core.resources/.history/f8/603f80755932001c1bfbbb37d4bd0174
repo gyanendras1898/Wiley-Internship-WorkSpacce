@@ -1,0 +1,8 @@
+package com.gyan.a;
+
+public class Snippet {
+	public static void main(String[] args) {
+		com.gyan.b
+	}
+}
+

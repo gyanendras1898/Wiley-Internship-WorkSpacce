@@ -1,0 +1,41 @@
+package com.gyan.persistence;
+
+public class CardDaoImpl implements CardDao {
+
+	@Override
+	public int addCard(double balance) {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+
+	@Override
+	public int viewBalance(int cardId) {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+
+	@Override
+	public boolean addBalance(int cardId) {
+		// TODO Auto-generated method stub
+		return false;
+	}
+
+	@Override
+	public boolean isCardPresent(int cardId) {
+		// TODO Auto-generated method stub
+		return false;
+	}
+
+	@Override
+	public void allCard() {
+		// TODO Auto-generated method stub
+
+	}
+
+	@Override
+	public int lastCardAdded() {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+
+}

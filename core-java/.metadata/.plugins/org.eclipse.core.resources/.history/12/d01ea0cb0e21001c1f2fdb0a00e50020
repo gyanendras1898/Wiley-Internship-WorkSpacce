@@ -1,0 +1,6 @@
+package day7.multithreading;
+
+class MyFirstThreadClass extends Thread{
+	
+
+}

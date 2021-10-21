@@ -1,0 +1,11 @@
+package thread.henowner;
+
+
+public class Main {
+	public static void main(String[] args) {
+		Egg egg=new Egg();
+		Thread thread=new Thread(egg);
+		thread.start();
+	}
+
+}

@@ -1,0 +1,14 @@
+package thread.henowner;
+
+public class Egg implements Runnable {
+	public static int sum=1;
+	public static int count=1;
+	Hen hen=new Hen();
+
+	@Override
+	public void run() {
+		while(sum<100)
+			hen.layEgg();
+	}
+
+}

@@ -1,0 +1,26 @@
+package com.piyush.service;
+
+import java.io.FileNotFoundException;
+
+import com.piyush.beans.Employee;
+import com.piyush.exceptions.EmployeeNotFoundException;
+import com.piyush.persistence.EmployeeDao;
+import com.piyush.persistence.EmployeeDaoImpl;
+
+public class EmployeeServiceImpl implements EmployeeService {
+
+	private EmployeeDao employeeDao=new EmployeeDaoImpl();
+
+	@Override
+	public Employee searchEmployeeById(int employeeId) throws EmployeeNotFoundException {
+
+		return employeeDao.getEmployeeById(employeeId);
+	}
+
+	@Override
+	public void insertEmployee(Employee employee) throws FileNotFoundException, com.piyush.exceptions.FileNotFoundException {
+		employeeDao.addEmployee(employee);		
+	}
+	
+
+}

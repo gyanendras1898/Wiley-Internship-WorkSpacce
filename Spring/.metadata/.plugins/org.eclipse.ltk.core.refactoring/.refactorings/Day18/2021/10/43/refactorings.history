@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;com&apos; to &apos;MyEmployeeJDBCWithSpringAutowireProject/src&apos;&#x0D;&#x0A;- Original project: &apos;Day18&apos;&#x0D;&#x0A;- Destination element: &apos;MyEmployeeJDBCWithSpringAutowireProject/src&apos;&#x0D;&#x0A;- Original element: &apos;com&apos;" description="Copy folder" destination="=MyEmployeeJDBCWithSpringAutowireProject/src=/optional=/true=/=/maven.pomderived=/true=/" element1="EmployeeJDBCLayeredProjectWithSPringIOC/src/com" files="0" flags="589830" folders="1" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1634541378745" units="0" version="1.0"/>
+</session>

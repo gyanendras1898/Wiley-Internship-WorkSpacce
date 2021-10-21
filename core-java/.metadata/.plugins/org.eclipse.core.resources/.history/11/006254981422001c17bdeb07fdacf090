@@ -1,0 +1,10 @@
+package tollplaza;
+
+public class Tollplaza {
+	
+	synchronized public void pass(Vehicle vehicle) {
+		System.out.println(vehicle+" pass tollplaza");
+		System.out.println(vehicle+" passes bridge");
+	}
+
+}

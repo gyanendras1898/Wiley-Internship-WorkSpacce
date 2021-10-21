@@ -1,0 +1,14 @@
+package day8.tictactok;
+
+public class Tick implements Runnable {
+
+	private TickTakTok tickTakTok;
+	
+	@Override
+	public void run() {
+		for(int i=0;i<20;i++)
+			tickTakTok.showTick();
+
+	}
+
+}

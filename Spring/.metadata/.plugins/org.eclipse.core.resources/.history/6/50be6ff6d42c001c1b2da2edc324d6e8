@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+<bean id="sms" class="com.producer.SMS">
+<constructor-arg name="senderNo" value="123456789"></constructor-arg>
+<constructor-arg name="receiverNo" value="987654321"></constructor-arg>
+</bean>
+
+<bean id="mail" class="com.producer.Email">
+<constructor-arg name="senderMail" value="abc@gmail.com"></constructor-arg>
+<constructor-arg name="receiverMail" value="xyz@gmail.com"></constructor-arg>
+</bean>
+
+</beans>

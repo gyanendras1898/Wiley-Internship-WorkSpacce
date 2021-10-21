@@ -1,0 +1,5 @@
+package exceptions.employee;
+
+public class Employee {
+
+}

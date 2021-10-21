@@ -1,0 +1,5 @@
+package com.gyan.beans;
+
+public class Transaction {
+
+}

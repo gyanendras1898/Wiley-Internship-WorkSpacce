@@ -1,0 +1,6 @@
+package com.gyan.producerr;
+
+public interface Instrument {
+
+	void play();
+}

@@ -1,0 +1,10 @@
+package com.gyan.persistence;
+
+public interface CardDao {
+	int addCard(double balance);
+	int viewBalance(int cardId);
+	boolean addBalance(int cardId);
+	boolean isCardPresent(int cardId);
+	void allCard();
+	int lastCardAdded();
+}

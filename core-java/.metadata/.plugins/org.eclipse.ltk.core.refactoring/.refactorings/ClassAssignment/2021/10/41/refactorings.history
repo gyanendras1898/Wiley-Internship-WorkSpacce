@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;Employee.java&apos; to &apos;day11.treemap.Employee.java&apos;&#x0D;&#x0A;- Original project: &apos;ClassAssignment&apos;&#x0D;&#x0A;- Destination element: &apos;day11.treemap.Employee.java&apos;&#x0D;&#x0A;- Original element: &apos;day11.treemap.Employee.java&apos;" description="Copy compilation unit" destination="/src&lt;day11.treemap{Employee.java" element1="/src&lt;day11.treemap{Employee.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1633417092550" units="1" version="1.0"/>
+</session>

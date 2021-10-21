@@ -1,0 +1,5 @@
+package exceptions.employee.presentation;
+
+public interface EmployeePresentation {
+
+}

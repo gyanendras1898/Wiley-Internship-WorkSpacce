@@ -1,0 +1,5 @@
+package com.gyan.consumer;
+
+public class GreetConsumer {
+
+}
