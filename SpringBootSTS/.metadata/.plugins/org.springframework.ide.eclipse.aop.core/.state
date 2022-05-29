@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aop-reference-model>
+<aop-project name="employee-course-springboot"/>
+<aop-project name="springboot-datajpa-layered-employee-practice"/>
+<aop-project name="springboot-datajpa-layered-employee"/>
+<aop-project name="springboot-datajpa-demo"/>
+</aop-reference-model>

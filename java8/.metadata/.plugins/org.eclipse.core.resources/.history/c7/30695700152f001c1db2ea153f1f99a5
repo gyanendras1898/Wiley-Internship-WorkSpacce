@@ -1,7 +1,0 @@
-package com.gyan.beans;
-
-public class Station {
-
-	private int number;
-	
-}

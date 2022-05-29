@@ -1,10 +1,11 @@
 package com.piyush.persistence;
 
-import com.piyush.exceptions.FileNotFoundException;
-
-import com.piyush.beans.Employee;
-import com.piyush.exceptions.EmployeeNotFoundException;
+import java.io.ObjectInputStream;
+import java.io.ObjectOutputStream;
 
 public interface EmployeeDao {
-	void addEmployee(Employee employee) throws FileNotFoundException;
+	public ObjectOutputStream getOos();
+	public ObjectInputStream getOis();
+	public ObjectOutputStream getToos();
+	public ObjectInputStream getTois();
 }

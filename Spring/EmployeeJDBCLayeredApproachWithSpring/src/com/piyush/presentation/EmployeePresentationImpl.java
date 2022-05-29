@@ -6,7 +6,7 @@ import java.util.Scanner;
 
 import com.piyush.bean.Employee;
 import com.piyush.service.EmployeeService;
-import com.piyush.service.EmployeeServiceImpl;
+//import com.piyush.service.EmployeeServiceImpl;
 
 public class EmployeePresentationImpl implements EmployeePresentation {
 
@@ -35,6 +35,7 @@ public EmployeePresentationImpl(EmployeeService employeeService) {
 
 	}
 
+	@SuppressWarnings("resource")
 	@Override
 	public void performMenu(int choice) {
 		try {

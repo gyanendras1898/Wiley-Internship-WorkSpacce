@@ -1,11 +1,14 @@
 package com.piyush.service;
 
 
+import java.io.IOException;
+
 import com.piyush.beans.Employee;
-import com.piyush.exceptions.EmployeeNotFoundException;
-import com.piyush.exceptions.FileNotFoundException;
 
 public interface EmployeeService {
 
-	public void insertEmployee(Employee employee) throws FileNotFoundException;
+	public void insertEmployee(Employee employee) throws IOException;
+
+	public Employee[] listOfEmployees() throws ClassNotFoundException, IOException;
+	
 }

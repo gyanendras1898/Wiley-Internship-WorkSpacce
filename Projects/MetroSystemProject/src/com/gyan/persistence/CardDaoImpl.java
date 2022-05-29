@@ -1,6 +1,7 @@
 package com.gyan.persistence;
 
 import java.sql.Connection;
+
 import java.sql.DriverManager;
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;
@@ -15,21 +16,35 @@ public class CardDaoImpl implements CardDao {
 		Class.forName("com.mysql.cj.jdbc.Driver");
 		Connection connection=DriverManager.getConnection("jdbc:mysql://localhost:3306/metro_system_db","root","admin");
 		
-		String query = "insert into cards values (?,?);";
+		String query = "insert into cards (balance) values (?);";
 		
-		PreparedStatement ps = connection.prepareStatement(query); 
-		ps.setDouble(2, balance);
-		int i=ps.executeUpdate();
+		PreparedStatement preparedStatement = connection.prepareStatement(query,Statement.RETURN_GENERATED_KEYS); 
+		preparedStatement.setDouble(1, balance);
+		int affectedRows=preparedStatement.executeUpdate();
 		
-		if(i==1)
-			return lastCardAdded();
+		if(affectedRows>0) {
+			ResultSet rs=preparedStatement.getGeneratedKeys();
+			if(rs.next())
+				return rs.getInt(1);
+		}
 		return -1;
 	}
 
 	@Override
-	public int viewBalance(int cardId) {
-		// TODO Auto-generated method stub
-		return 0;
+	public double viewBalance(int cardId) throws ClassNotFoundException, SQLException {
+		Class.forName("com.mysql.cj.jdbc.Driver");
+		Connection connection=DriverManager.getConnection("jdbc:mysql://localhost:3306/metro_system_db","root","admin");
+		
+		String query = "select balance from cards where id=?";
+		
+		PreparedStatement preparedStatement = connection.prepareStatement(query); 
+		preparedStatement.setDouble(1, cardId);
+		
+		ResultSet rs=preparedStatement.executeQuery();
+		
+		if(rs.next())
+			return rs.getDouble(1);
+		return 0.0;
 	}
 
 	@Override
@@ -57,7 +72,7 @@ public class CardDaoImpl implements CardDao {
 		
 		Statement statement = connection.createStatement();
 		
-		String query = "select cId from card order by registered_on desc limit 1;";
+		String query = "select cId from card order by number desc limit 1;";
 		
 		
 		ResultSet rs = statement.executeQuery(query);

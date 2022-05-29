@@ -22,10 +22,7 @@ public class EmployeeDaoImpl implements EmployeeDao {
 	}
 
 	@Override
-	public ArrayList<Employee> getAllRecords()throws SQLException{
-//		Class.forName("com.mysql.cj.jdbc.Driver");
-//		Connection connection=DriverManager.getConnection("jdbc:mysql://localhost:3306/employeedb", "root", "admin");
-		
+	public ArrayList<Employee> getAllRecords()throws SQLException{	
 		Connection connection=dataSource.getConnection();
 		
 		PreparedStatement preparedStatement=connection.prepareStatement("SELECT * FROM employees");
@@ -49,8 +46,6 @@ public class EmployeeDaoImpl implements EmployeeDao {
 	@Override
 	public boolean insertData(Employee employee) throws SQLException {
 		boolean flag=false;
-//		Class.forName("com.mysql.cj.jdbc.Driver");
-//		Connection connection=DriverManager.getConnection("jdbc:mysql://localhost:3306/employeedb", "root", "admin");
 		Connection connection=dataSource.getConnection();
 		PreparedStatement preparedStatement=connection.prepareStatement("INSERT INTO employees VALUES(?,?,?,?,?)");
 		preparedStatement.setInt(1, employee.getEmpId());
@@ -67,8 +62,6 @@ public class EmployeeDaoImpl implements EmployeeDao {
 	@Override
 	public boolean deleteData(int empId) throws SQLException {
 		boolean flag=false;
-//		Class.forName("com.mysql.cj.jdbc.Driver");
-//		Connection connection=DriverManager.getConnection("jdbc:mysql://localhost:3306/employeedb", "root", "admin");
 		Connection connection=dataSource.getConnection();
 		String query="DELETE FROM employees WHERE id="+empId;
 		PreparedStatement preparedStatement=connection.prepareStatement(query);
@@ -81,8 +74,6 @@ public class EmployeeDaoImpl implements EmployeeDao {
 	@Override
 	public boolean updateSalary(int empId, int salary) throws  SQLException {
 		boolean flag=false;
-//		Class.forName("com.mysql.cj.jdbc.Driver");
-//		Connection connection=DriverManager.getConnection("jdbc:mysql://localhost:3306/employeedb", "root", "admin");
 		Connection connection=dataSource.getConnection();
 		String query="UPDATE employees SET salary="+salary+" WHERE id="+empId;
 		PreparedStatement preparedStatement=connection.prepareStatement(query);
@@ -97,8 +88,6 @@ public class EmployeeDaoImpl implements EmployeeDao {
 
 	@Override
 	public Employee searchRecord(int empId) throws SQLException {
-//		Class.forName("com.mysql.cj.jdbc.Driver");
-//		Connection connection=DriverManager.getConnection("jdbc:mysql://localhost:3306/employeedb", "root", "admin");
 		Connection connection=dataSource.getConnection();
 		String query="SELECT * FROM employees WHERE id="+empId;
 		Employee employee=null;

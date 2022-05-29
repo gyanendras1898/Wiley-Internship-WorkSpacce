@@ -1,5 +1,0 @@
-package com.gyan.persistence;
-
-public interface CardDao {
-
-}

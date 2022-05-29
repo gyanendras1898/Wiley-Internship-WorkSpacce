@@ -10,7 +10,6 @@ import com.piyush.service.EmployeeServiceImpl;
 
 public class EmployeePresentationImpl implements EmployeePresentation {
 
-//	private EmployeeService employeeService=new EmployeeServiceImpl();
 	private EmployeeService employeeService;
 	
 	public EmployeePresentationImpl(EmployeeService employeeService) {

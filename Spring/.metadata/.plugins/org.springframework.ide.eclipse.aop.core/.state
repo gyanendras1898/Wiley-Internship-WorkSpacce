@@ -13,4 +13,5 @@
 <aop-project name="MyGreetConsumer"/>
 <aop-project name="MyMessageProjectSpringLifeCycle"/>
 <aop-project name="EmployeeJDBCLayeredApproachWithSpringJavaConfig"/>
+<aop-project name="EmployeeJDBCLayeredApproachWithSpringJavaConfigWithAnnotation"/>
 </aop-reference-model>

@@ -1,6 +1,0 @@
-package com.gyan.producerr;
-
-public interface Performer {
-
-	public void perform();
-}

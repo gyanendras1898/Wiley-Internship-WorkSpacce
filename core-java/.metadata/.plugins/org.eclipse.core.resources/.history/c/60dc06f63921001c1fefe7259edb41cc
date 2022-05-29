@@ -1,5 +1,0 @@
-package exceptions.employee.persistence;
-
-public interface EmployeeDao {
-	public boolean addEmployee(String name, int age);
-}

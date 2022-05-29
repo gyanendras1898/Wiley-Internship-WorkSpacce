@@ -45,7 +45,7 @@ public class EmployeeDaoImpl implements EmployeeDao {
 		preparedStatement.setString(3, employee.getEmpDepartment());
 		preparedStatement.setString(4, employee.getEmpDesignation());
 		preparedStatement.setInt(5, employee.getEmpSalary());
-		int resultSet=preparedStatement.executeUpdate();
+		preparedStatement.executeUpdate();
 		flag=true;
 		connection.close();
 		return flag;
@@ -58,7 +58,7 @@ public class EmployeeDaoImpl implements EmployeeDao {
 		Connection connection=DriverManager.getConnection("jdbc:mysql://localhost:3306/employeedb", "root", "admin");
 		String query="DELETE FROM employees WHERE id="+empId;
 		PreparedStatement preparedStatement=connection.prepareStatement(query);
-		int resultSet=preparedStatement.executeUpdate();
+		preparedStatement.executeUpdate();
 		flag=true;
 		connection.close();
 		return flag;
@@ -71,7 +71,7 @@ public class EmployeeDaoImpl implements EmployeeDao {
 		Connection connection=DriverManager.getConnection("jdbc:mysql://localhost:3306/employeedb", "root", "admin");
 		String query="UPDATE employees SET salary="+salary+" WHERE id="+empId;
 		PreparedStatement preparedStatement=connection.prepareStatement(query);
-		int resultSet=preparedStatement.executeUpdate();
+		preparedStatement.executeUpdate();
 		flag=true;
 		connection.close();
 		

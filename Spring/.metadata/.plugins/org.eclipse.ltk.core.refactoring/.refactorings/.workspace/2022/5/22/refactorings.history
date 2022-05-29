@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Delete resource &apos;EmployeeJDBCLayeredApproach&apos;" deleteContents="false" description="Delete resource &apos;EmployeeJDBCLayeredApproach&apos;" element1="/EmployeeJDBCLayeredApproach" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1653321508757"/>
+</session>

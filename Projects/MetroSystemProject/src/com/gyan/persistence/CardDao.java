@@ -4,7 +4,7 @@ import java.sql.SQLException;
 
 public interface CardDao {
 	int addCard(double balance) throws ClassNotFoundException, SQLException;
-	int viewBalance(int cardId);
+	double viewBalance(int cardId) throws ClassNotFoundException, SQLException;
 	boolean addBalance(int cardId);
 	boolean isCardPresent(int cardId);
 	void allCard();

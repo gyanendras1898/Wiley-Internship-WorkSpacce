@@ -23,8 +23,11 @@ public class EmployeeCourseProjectClient {
 			else
 				throw new InvalidInputException("Warning!!! Please input integer only");
 			}
-			catch(InvalidInputException exception) {
+			catch(InvalidInputException exception ) {
 				System.out.println(exception.getMessage());
+			}
+			catch(Exception ex) {
+				System.out.println(ex.getMessage());
 			}
 		}
 		

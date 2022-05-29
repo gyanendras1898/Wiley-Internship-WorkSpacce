@@ -27,19 +27,19 @@ public class EmployeePresentationImpl implements EmployeePresentation {
 	@Override
 	public void performMenu(int choice){
 		try {
-		Scanner sc=new Scanner(System.in);
+		Scanner scanner=new Scanner(System.in);
 		switch(choice) {
 		case 1:
 			System.out.println("Enter EmployeeID");
-			int empID=Integer.parseInt(sc.nextLine());
+			int empID=Integer.parseInt(scanner.nextLine());
 			System.out.println("Enter Employee name");
-			String name=sc.nextLine();
+			String name=scanner.nextLine();
 			System.out.println("Enter Employee designation");
-			String desig=sc.nextLine();
+			String desig=scanner.nextLine();
 			System.out.println("Enter Employee department");
-			String depart=sc.nextLine();
+			String depart=scanner.nextLine();
 			System.out.println("Enter Employee salary");
-			int salary=Integer.parseInt(sc.nextLine());
+			int salary=Integer.parseInt(scanner.nextLine());
 			
 			Employee employee=new Employee(empID,name,desig,depart,salary);
 			
@@ -72,16 +72,15 @@ public class EmployeePresentationImpl implements EmployeePresentation {
 //			if(status)
 //				System.out.println("Employee deRegistered Successfully!");
 //			break;
-//		case 4:
-//			System.out.println("Enter Course ID whoes Employee Registration you want to see :");
-//			String courseId=scanner.next();
-//			Employee empls[]=courseService.listOfEmployeesForCourse(courseId);
-//			if(empls[0]==null) System.out.println("Empty! No one registered yet");
-//			for(Employee emp:empls) {
-//				if(emp==null)	break;
-//				System.out.println(emp);
-//			}
-//			break;
+		case 4:
+			Employee[] employees=employeeService.listOfEmployees();
+			if(employees[0]==null) System.out.println("Empty! No one registered yet");
+			
+			for(Employee emp : employees) {
+				if(emp==null)	break;
+				System.out.println(emp);
+			}
+			break;
 //		case 5:
 //			System.out.println("Thanks for using our System, kindly visit us again!");
 //			System.exit(0);

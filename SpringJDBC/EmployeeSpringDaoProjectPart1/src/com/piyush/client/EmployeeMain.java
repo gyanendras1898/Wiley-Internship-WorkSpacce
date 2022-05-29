@@ -12,8 +12,7 @@ public class EmployeeMain {
 
 	public static void main(String[] args) {
 		Scanner scanner=new Scanner(System.in);
-//		EmployeePresentation employeePresentation=new EmployeePresentationImpl();
-		
+	
 		ApplicationContext springContainer=new ClassPathXmlApplicationContext("employee.xml");
 		EmployeePresentation employeePresentation=(EmployeePresentation)springContainer.getBean("employeePresentation");
 		

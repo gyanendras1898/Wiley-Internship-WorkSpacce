@@ -1,5 +1,0 @@
-package exceptions.employee.database;
-
-public class EmployeeList {
-
-}
