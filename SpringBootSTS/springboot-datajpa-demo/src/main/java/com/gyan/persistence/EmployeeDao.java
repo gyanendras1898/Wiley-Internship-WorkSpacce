@@ -1,9 +1,10 @@
 package com.gyan.persistence;
 
 import org.springframework.data.jpa.repository.JpaRepository;
+
 import org.springframework.stereotype.Repository;
 
-import com.sujata.bean.Employee;
+import com.gyan.bean.Employee;
 
 @Repository
 public interface EmployeeDao extends JpaRepository<Employee, Integer> {

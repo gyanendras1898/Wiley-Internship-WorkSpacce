@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <aop-reference-model>
-<aop-project name="EmployeeSpringDaoProjectPart1"/>
 <aop-project name="EmployeeSpringDaoProjectPart2"/>
+<aop-project name="EmployeeSpringDaoProjectPart1"/>
+<aop-project name="EmployeeSpringDaoProjectPart1WithAnnotation"/>
 <aop-project name="EmployeeSpringDaoProjectPart2Payslip"/>
 </aop-reference-model>

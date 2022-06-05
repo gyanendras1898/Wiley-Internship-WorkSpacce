@@ -1,7 +1,0 @@
-package com.gyan.presentations;
-
-public interface EmployeePresentation {
-
-	public void showMenu();
-	public void performMenu(int choice);
-}

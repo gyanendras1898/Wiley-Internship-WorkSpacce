@@ -1,7 +1,0 @@
-package com.piyush.helper;
-
-import org.springframework.jdbc.core.RowMapper;
-
-public class EmployeeRowMapper implements RowMapper<Employee> {
-
-}
