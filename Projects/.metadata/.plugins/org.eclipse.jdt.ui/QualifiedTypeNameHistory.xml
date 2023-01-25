@@ -14,7 +14,15 @@
     <fullyQualifiedTypeName name="com.gyan.presentation.MetroPresentation"/>
     <fullyQualifiedTypeName name="com.gyan.presentation.MetroPresentationImpl"/>
     <fullyQualifiedTypeName name="java.sql.Statement"/>
+    <fullyQualifiedTypeName name="java.sql.ResultSet"/>
+    <fullyQualifiedTypeName name="lombok.NoArgsConstructor"/>
+    <fullyQualifiedTypeName name="java.sql.SQLException"/>
+    <fullyQualifiedTypeName name="com.gyan.service.JourneyService"/>
+    <fullyQualifiedTypeName name="com.gyan.service.JourneyServiceImpl"/>
     <fullyQualifiedTypeName name="com.gyan.service.CardService"/>
     <fullyQualifiedTypeName name="com.gyan.service.CardServiceImpl"/>
-    <fullyQualifiedTypeName name="java.sql.ResultSet"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="com.gyan.beans.Station"/>
+    <fullyQualifiedTypeName name="com.gyan.service.StationService"/>
+    <fullyQualifiedTypeName name="com.gyan.service.StationServiceImpl"/>
 </qualifiedTypeNameHistroy>

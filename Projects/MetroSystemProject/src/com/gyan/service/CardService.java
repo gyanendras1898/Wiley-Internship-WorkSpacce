@@ -6,9 +6,9 @@ import com.gyan.beans.Card;
 
 public interface CardService {
 	boolean registerUser(double balance) throws ClassNotFoundException, SQLException;
-	boolean isCardPresent(int cardId);
-	boolean addCardBalance(int cardId, double balance);
-	double viewBalance(int cardId);
-	int viewCardId();
+	boolean isCardPresent(int cardId) throws ClassNotFoundException, SQLException;
+	boolean addCardBalance(int cardId, double balance)throws ClassNotFoundException, SQLException;
+	double viewBalance(int cardId)throws ClassNotFoundException, SQLException;
+	int viewCardId()throws ClassNotFoundException, SQLException;
 	
 }

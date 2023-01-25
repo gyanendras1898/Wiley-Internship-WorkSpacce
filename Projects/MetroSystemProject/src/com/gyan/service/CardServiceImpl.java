@@ -14,7 +14,7 @@ public class CardServiceImpl implements CardService {
 	public boolean registerUser(double balance) throws ClassNotFoundException, SQLException {
 		int newId=cardDao.addCard(balance);
 		if(newId!=-1) {
-			new Card(newId,balance);
+//			new Card(newId,balance);
 			System.out.println("Card Id : "+newId);
 			return true;
 		}
@@ -22,25 +22,24 @@ public class CardServiceImpl implements CardService {
 	}
 
 	@Override
-	public boolean isCardPresent(int cId) {
-		
-		return false;
+	public boolean isCardPresent(int cId) throws ClassNotFoundException, SQLException {
+		return cardDao.isCardPresent(cId);
 	}
 
 	@Override
-	public boolean addCardBalance(int cardId, double balance) {
+	public boolean addCardBalance(int cardId, double balance)throws ClassNotFoundException, SQLException {
 		// TODO Auto-generated method stub
 		return false;
 	}
 
 	@Override
-	public double viewBalance(int cardId) {
+	public double viewBalance(int cardId)throws ClassNotFoundException, SQLException {
 		// TODO Auto-generated method stub
 		return 0;
 	}
 
 	@Override
-	public int viewCardId() {
+	public int viewCardId()throws ClassNotFoundException, SQLException {
 		// TODO Auto-generated method stub
 		return 0;
 	}

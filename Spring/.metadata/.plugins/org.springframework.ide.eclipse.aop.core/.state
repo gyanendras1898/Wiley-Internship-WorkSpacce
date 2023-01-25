@@ -9,9 +9,11 @@
 <aop-project name="MyPerformanceSprintpAndc"/>
 <aop-project name="MyMessageProjectSpringAnnotation"/>
 <aop-project name="EmployeeJDBCLayeredApproachWithSpring"/>
+<aop-project name="MyPerformanceSpringJavaConfig"/>
 <aop-project name="MyMessageProject"/>
 <aop-project name="MyGreetConsumer"/>
 <aop-project name="MyMessageProjectSpringLifeCycle"/>
+<aop-project name="MyPerformanceSpringAnnotation"/>
 <aop-project name="EmployeeJDBCLayeredApproachWithSpringJavaConfig"/>
 <aop-project name="EmployeeJDBCLayeredApproachWithSpringJavaConfigWithAnnotation"/>
 </aop-reference-model>

@@ -48,19 +48,30 @@ public class CardDaoImpl implements CardDao {
 	}
 
 	@Override
-	public boolean addBalance(int cardId) {
+	public boolean addBalance(int cardId)throws SQLException, ClassNotFoundException {
 		// TODO Auto-generated method stub
 		return false;
 	}
 
 	@Override
-	public boolean isCardPresent(int cardId) {
-		// TODO Auto-generated method stub
+	public boolean isCardPresent(int cardId) throws SQLException, ClassNotFoundException {
+		Class.forName("com.mysql.cj.jdbc.Driver");
+		Connection connection=DriverManager.getConnection("jdbc:mysql://localhost:3306/metro_system_db","root","admin");
+		
+		String query = "SELECT EXISTS (SELECT * FROM CARDS WHERE ID=?)";
+		
+		PreparedStatement preparedStatement = connection.prepareStatement(query); 
+		preparedStatement.setDouble(1, cardId);
+		
+		ResultSet rs=preparedStatement.executeQuery();
+		
+		if(rs.next())
+			return true;
 		return false;
 	}
 
 	@Override
-	public void allCard() {
+	public void allCard()throws SQLException, ClassNotFoundException {
 		// TODO Auto-generated method stub
 
 	}

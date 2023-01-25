@@ -1,4 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <typeInfoHistroy>
-    <typeInfo handle="=MetroSystemProject/src=/optional=/true=/=/maven.pomderived=/true=/&lt;com.gyan.persistence{CardDao.java[CardDao" modifiers="513" timestamp="1634987960094"/>
+    <typeInfo handle="=MetroSystemProject/src=/optional=/true=/=/maven.pomderived=/true=/&lt;com.gyan.persistence{CardDao.java[CardDao" modifiers="513" timestamp="1655026959057"/>
+    <typeInfo handle="=MetroSystemProject/src=/optional=/true=/=/maven.pomderived=/true=/&lt;com.gyan.service{JourneyService.java[JourneyService" modifiers="513" timestamp="1655027595568"/>
+    <typeInfo handle="=MetroSystemProject/src=/optional=/true=/=/maven.pomderived=/true=/&lt;com.gyan.service{StationService.java[StationService" modifiers="513" timestamp="1655027715420"/>
+    <typeInfo handle="=MetroSystemProject/src=/optional=/true=/=/maven.pomderived=/true=/&lt;com.gyan.persistence{JourneyDao.java[JourneyDao" modifiers="513" timestamp="1655027858122"/>
+    <typeInfo handle="=MetroSystemProject/src=/optional=/true=/=/maven.pomderived=/true=/&lt;com.gyan.persistence{StationDao.java[StationDao" modifiers="513" timestamp="1655027935199"/>
 </typeInfoHistroy>

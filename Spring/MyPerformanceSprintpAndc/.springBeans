@@ -7,7 +7,8 @@
 	</configSuffixes>
 	<enableImports><![CDATA[false]]></enableImports>
 	<configs>
-		<config>src/perfomance.xml</config>
+		<config>src/performer.xml</config>
+		<config>src/performance.xml</config>
 	</configs>
 	<autoconfigs>
 	</autoconfigs>

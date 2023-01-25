@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+	<bean id="singer" class="com.sujata.producer.Singer">
+		<constructor-arg name="song" value="Jinga Lala"></constructor-arg>
+	</bean>
+	<bean id="dancer" class="com.sujata.producer.Dancer">
+		<constructor-arg name="style" value="tak thak"></constructor-arg>
+	</bean>
+	<bean id="juggler" class="com.sujata.producer.Juggler">
+		<property name="balls" value="20"></property>
+	</bean>
+	<bean id="tabla" class="com.sujata.producer.Tabla"></bean>
+
+	<bean id="intrumentalist"
+		class="com.sujata.producer.Instrumentalist">
+		<property name="instrument" ref="tabla"></property>
+	</bean>
+
+</beans>

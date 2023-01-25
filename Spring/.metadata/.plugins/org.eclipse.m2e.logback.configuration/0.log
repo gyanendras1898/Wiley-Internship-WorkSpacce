@@ -1183,3 +1183,361 @@
 2022-05-23 23:14:24,100 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\Spring\MyPerformanceSprintpAndc\src\main\resources
 2022-05-23 23:14:24,102 [Worker-5: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
 2022-05-23 23:14:24,102 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\Spring\MyPerformanceSprintpAndc\src\test\resources
+2023-01-23 12:23:43,809 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2023-01-23 12:30:57,450 [Worker-20: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-23 12:30:57,451 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\Spring\MyPerformanceSprintpAndc\src\main\resources
+2023-01-23 12:30:57,453 [Worker-20: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-23 12:30:57,453 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\Spring\MyPerformanceSprintpAndc\src\test\resources
+2023-01-23 12:30:57,663 [Worker-6: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-23 12:30:57,664 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\Spring\MyPerformanceSprintpAndc\src\main\resources
+2023-01-23 12:30:57,666 [Worker-6: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-23 12:30:57,666 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\Spring\MyPerformanceSprintpAndc\src\test\resources
+2023-01-23 12:31:57,098 [Worker-22: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-23 12:31:57,099 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\Spring\MyPerformanceSprintpAndc\src\main\resources
+2023-01-23 12:31:57,101 [Worker-22: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-23 12:31:57,102 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\Spring\MyPerformanceSprintpAndc\src\test\resources
+2023-01-23 12:33:57,169 [Worker-21: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-23 12:33:57,170 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\Spring\MyPerformanceSprintpAndc\src\main\resources
+2023-01-23 12:33:57,172 [Worker-21: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-23 12:33:57,172 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\Spring\MyPerformanceSprintpAndc\src\test\resources
+2023-01-23 12:44:39,080 [Worker-29: Launching Performances] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-23 12:44:39,081 [Worker-29: Launching Performances] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\Spring\MyPerformanceSprintpAndc\src\main\resources
+2023-01-23 12:44:39,082 [Worker-29: Launching Performances] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-23 12:44:39,083 [Worker-29: Launching Performances] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\Spring\MyPerformanceSprintpAndc\src\test\resources
+2023-01-23 12:46:33,791 [Worker-6: Launching Performances] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-23 12:46:33,793 [Worker-6: Launching Performances] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\Spring\MyPerformanceSprintpAndc\src\main\resources
+2023-01-23 12:46:33,795 [Worker-6: Launching Performances] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-23 12:46:33,796 [Worker-6: Launching Performances] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\Spring\MyPerformanceSprintpAndc\src\test\resources
+2023-01-23 12:47:41,420 [Worker-31: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-23 12:47:41,421 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\Spring\MyPerformanceSprintpAndc\src\main\resources
+2023-01-23 12:47:41,423 [Worker-31: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-23 12:47:41,424 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\Spring\MyPerformanceSprintpAndc\src\test\resources
+2023-01-23 12:47:47,937 [Worker-6: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-23 12:47:47,937 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\Spring\MyPerformanceSprintpAndc\src\main\resources
+2023-01-23 12:47:47,939 [Worker-6: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-23 12:47:47,939 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\Spring\MyPerformanceSprintpAndc\src\test\resources
+2023-01-23 12:49:00,588 [Worker-30: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-23 12:49:00,589 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\Spring\MyPerformanceSprintpAndc\src\main\resources
+2023-01-23 12:49:00,591 [Worker-30: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-23 12:49:00,591 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\Spring\MyPerformanceSprintpAndc\src\test\resources
+2023-01-23 12:50:20,394 [Worker-6: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-23 12:50:20,395 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\Spring\MyPerformanceSprintpAndc\src\main\resources
+2023-01-23 12:50:20,396 [Worker-6: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-23 12:50:20,397 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\Spring\MyPerformanceSprintpAndc\src\test\resources
+2023-01-23 12:51:14,662 [Worker-27: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-23 12:51:14,662 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\Spring\MyPerformanceSprintpAndc\src\main\resources
+2023-01-23 12:51:14,663 [Worker-27: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-23 12:51:14,664 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\Spring\MyPerformanceSprintpAndc\src\test\resources
+2023-01-23 12:51:29,084 [Worker-30: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-23 12:51:29,085 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\Spring\MyPerformanceSprintpAndc\src\main\resources
+2023-01-23 12:51:29,086 [Worker-30: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-23 12:51:29,087 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\Spring\MyPerformanceSprintpAndc\src\test\resources
+2023-01-23 12:51:42,581 [Worker-32: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-23 12:51:42,581 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\Spring\MyPerformanceSprintpAndc\src\main\resources
+2023-01-23 12:51:42,582 [Worker-32: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-23 12:51:42,583 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\Spring\MyPerformanceSprintpAndc\src\test\resources
+2023-01-23 12:58:15,354 [Worker-35: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-23 12:58:15,354 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\Spring\MyPerformanceSprintpAndc\src\main\resources
+2023-01-23 12:58:15,355 [Worker-35: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-23 12:58:15,355 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\Spring\MyPerformanceSprintpAndc\src\test\resources
+2023-01-23 12:59:43,499 [Worker-6: Launching Performances] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-23 12:59:43,499 [Worker-6: Launching Performances] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\Spring\MyPerformanceSprintpAndc\src\main\resources
+2023-01-23 12:59:43,501 [Worker-6: Launching Performances] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-23 12:59:43,503 [Worker-6: Launching Performances] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\Spring\MyPerformanceSprintpAndc\src\test\resources
+2023-01-23 13:25:28,038 [Worker-43: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-23 13:25:28,042 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\Spring\MyPerformanceSprintpAndc\src\main\resources
+2023-01-23 13:25:28,045 [Worker-43: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-23 13:25:28,045 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\Spring\MyPerformanceSprintpAndc\src\test\resources
+2023-01-23 13:29:03,789 [Worker-42: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-23 13:29:03,790 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\Spring\MyPerformanceSprintpAndc\src\main\resources
+2023-01-23 13:29:03,790 [Worker-42: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-23 13:29:03,791 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\Spring\MyPerformanceSprintpAndc\src\test\resources
+2023-01-23 13:29:47,758 [Worker-43: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-23 13:29:47,759 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\Spring\MyPerformanceSprintpAndc\src\main\resources
+2023-01-23 13:29:47,760 [Worker-43: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-23 13:29:47,760 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\Spring\MyPerformanceSprintpAndc\src\test\resources
+2023-01-23 13:29:51,425 [Worker-44: Launching Performances] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-23 13:29:51,425 [Worker-44: Launching Performances] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\Spring\MyPerformanceSprintpAndc\src\main\resources
+2023-01-23 13:29:51,427 [Worker-44: Launching Performances] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-23 13:29:51,427 [Worker-44: Launching Performances] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\Spring\MyPerformanceSprintpAndc\src\test\resources
+2023-01-23 13:32:44,076 [Worker-41: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-23 13:32:44,079 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\Spring\MyPerformanceSprintpAndc\src\main\resources
+2023-01-23 13:32:44,083 [Worker-41: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-23 13:32:44,083 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\Spring\MyPerformanceSprintpAndc\src\test\resources
+2023-01-23 13:32:48,224 [Worker-41: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-23 13:32:48,225 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\Spring\MyPerformanceSprintpAndc\src\main\resources
+2023-01-23 13:32:48,231 [Worker-41: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-23 13:32:48,233 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\Spring\MyPerformanceSprintpAndc\src\test\resources
+2023-01-23 13:33:46,696 [Worker-46: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-23 13:33:46,697 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\Spring\MyPerformanceSprintpAndc\src\main\resources
+2023-01-23 13:33:46,701 [Worker-46: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-23 13:33:46,703 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\Spring\MyPerformanceSprintpAndc\src\test\resources
+2023-01-23 13:34:28,970 [Worker-46: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-23 13:34:28,970 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\Spring\MyPerformanceSprintpAndc\src\main\resources
+2023-01-23 13:34:28,971 [Worker-46: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-23 13:34:28,972 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\Spring\MyPerformanceSprintpAndc\src\test\resources
+2023-01-23 13:35:44,472 [Worker-43: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-23 13:35:44,473 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\Spring\MyPerformanceSprintpAndc\src\main\resources
+2023-01-23 13:35:44,473 [Worker-43: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-23 13:35:44,474 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\Spring\MyPerformanceSprintpAndc\src\test\resources
+2023-01-23 13:35:57,645 [Worker-52: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-23 13:35:57,645 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\Spring\MyPerformanceSprintpAndc\src\main\resources
+2023-01-23 13:35:57,646 [Worker-52: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-23 13:35:57,647 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\Spring\MyPerformanceSprintpAndc\src\test\resources
+2023-01-23 13:40:25,960 [Worker-56: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-23 13:40:25,961 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\Spring\MyPerformanceSprintpAndc\src\main\resources
+2023-01-23 13:40:25,966 [Worker-56: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-23 13:40:25,970 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\Spring\MyPerformanceSprintpAndc\src\test\resources
+2023-01-23 13:48:40,510 [Worker-53: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: MyPerformanceSprintpAndc:MyPerformanceSprintpAndc:0.0.1-SNAPSHOT @ D:\work-space\Spring\MyPerformanceSpringAnnotation\pom.xml.
+2023-01-23 13:48:41,099 [Worker-53: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-23 13:48:41,099 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\Spring\MyPerformanceSpringAnnotation\src\main\resources
+2023-01-23 13:48:41,100 [Worker-53: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-23 13:48:41,101 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\Spring\MyPerformanceSpringAnnotation\src\test\resources
+2023-01-23 13:48:41,780 [Worker-59: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-23 13:48:41,780 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\Spring\MyPerformanceSpringAnnotation\src\main\resources
+2023-01-23 13:48:41,782 [Worker-59: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-23 13:48:41,782 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\Spring\MyPerformanceSpringAnnotation\src\test\resources
+2023-01-23 13:50:13,204 [Worker-53: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-23 13:50:13,210 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\Spring\MyPerformanceSpringAnnotation\src\main\resources
+2023-01-23 13:50:13,212 [Worker-53: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-23 13:50:13,213 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\Spring\MyPerformanceSpringAnnotation\src\test\resources
+2023-01-23 13:50:54,850 [Worker-63: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-23 13:50:54,851 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\Spring\MyPerformanceSpringAnnotation\src\main\resources
+2023-01-23 13:50:54,855 [Worker-63: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-23 13:50:54,858 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\Spring\MyPerformanceSpringAnnotation\src\test\resources
+2023-01-23 13:54:13,822 [Worker-58: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-23 13:54:13,823 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\Spring\MyPerformanceSpringAnnotation\src\main\resources
+2023-01-23 13:54:13,824 [Worker-58: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-23 13:54:13,824 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\Spring\MyPerformanceSpringAnnotation\src\test\resources
+2023-01-23 13:55:18,464 [Worker-60: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-23 13:55:18,464 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\Spring\MyPerformanceSpringAnnotation\src\main\resources
+2023-01-23 13:55:18,465 [Worker-60: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-23 13:55:18,465 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\Spring\MyPerformanceSpringAnnotation\src\test\resources
+2023-01-23 13:55:47,228 [Worker-62: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-23 13:55:47,229 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\Spring\MyPerformanceSpringAnnotation\src\main\resources
+2023-01-23 13:55:47,230 [Worker-62: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-23 13:55:47,231 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\Spring\MyPerformanceSpringAnnotation\src\test\resources
+2023-01-23 13:55:59,478 [Worker-62: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-23 13:55:59,478 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\Spring\MyPerformanceSpringAnnotation\src\main\resources
+2023-01-23 13:55:59,479 [Worker-62: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-23 13:55:59,480 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\Spring\MyPerformanceSpringAnnotation\src\test\resources
+2023-01-23 13:57:20,748 [Worker-57: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-23 13:57:20,748 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\Spring\MyPerformanceSpringAnnotation\src\main\resources
+2023-01-23 13:57:20,749 [Worker-57: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-23 13:57:20,750 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\Spring\MyPerformanceSpringAnnotation\src\test\resources
+2023-01-23 13:57:23,202 [Worker-64: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-23 13:57:23,203 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\Spring\MyPerformanceSpringAnnotation\src\main\resources
+2023-01-23 13:57:23,205 [Worker-64: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-23 13:57:23,206 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\Spring\MyPerformanceSpringAnnotation\src\test\resources
+2023-01-23 13:57:39,540 [Worker-59: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-23 13:57:39,540 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\Spring\MyPerformanceSpringAnnotation\src\main\resources
+2023-01-23 13:57:39,542 [Worker-59: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-23 13:57:39,542 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\Spring\MyPerformanceSpringAnnotation\src\test\resources
+2023-01-23 13:58:09,752 [Worker-63: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-23 13:58:09,753 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\Spring\MyPerformanceSpringAnnotation\src\main\resources
+2023-01-23 13:58:09,754 [Worker-63: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-23 13:58:09,754 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\Spring\MyPerformanceSpringAnnotation\src\test\resources
+2023-01-23 13:59:06,814 [Worker-57: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-23 13:59:06,818 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\Spring\MyPerformanceSpringAnnotation\src\main\resources
+2023-01-23 13:59:06,820 [Worker-57: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-23 13:59:06,821 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\Spring\MyPerformanceSpringAnnotation\src\test\resources
+2023-01-23 14:00:29,147 [Worker-57: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-23 14:00:29,147 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\Spring\MyPerformanceSpringAnnotation\src\main\resources
+2023-01-23 14:00:29,148 [Worker-57: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-23 14:00:29,149 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\Spring\MyPerformanceSpringAnnotation\src\test\resources
+2023-01-23 14:00:32,875 [Worker-62: Launching Performances (1)] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-23 14:00:32,875 [Worker-62: Launching Performances (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\Spring\MyPerformanceSpringAnnotation\src\main\resources
+2023-01-23 14:00:32,876 [Worker-62: Launching Performances (1)] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-23 14:00:32,877 [Worker-62: Launching Performances (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\Spring\MyPerformanceSpringAnnotation\src\test\resources
+2023-01-23 14:00:52,877 [Worker-60: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-23 14:00:52,877 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\Spring\MyPerformanceSpringAnnotation\src\main\resources
+2023-01-23 14:00:52,878 [Worker-60: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-23 14:00:52,878 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\Spring\MyPerformanceSpringAnnotation\src\test\resources
+2023-01-23 14:00:57,395 [Worker-60: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-23 14:00:57,395 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\Spring\MyPerformanceSpringAnnotation\src\main\resources
+2023-01-23 14:00:57,396 [Worker-60: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-23 14:00:57,397 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\Spring\MyPerformanceSpringAnnotation\src\test\resources
+2023-01-23 14:01:05,247 [Worker-53: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-23 14:01:05,249 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\Spring\MyPerformanceSpringAnnotation\src\main\resources
+2023-01-23 14:01:05,250 [Worker-53: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-23 14:01:05,250 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\Spring\MyPerformanceSpringAnnotation\src\test\resources
+2023-01-23 14:02:31,317 [Worker-64: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-23 14:02:31,318 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\Spring\MyPerformanceSpringAnnotation\src\main\resources
+2023-01-23 14:02:31,319 [Worker-64: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-23 14:02:31,320 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\Spring\MyPerformanceSpringAnnotation\src\test\resources
+2023-01-23 14:03:06,350 [Worker-65: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-23 14:03:06,350 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\Spring\MyPerformanceSpringAnnotation\src\main\resources
+2023-01-23 14:03:06,351 [Worker-65: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-23 14:03:06,352 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\Spring\MyPerformanceSpringAnnotation\src\test\resources
+2023-01-23 14:04:17,582 [Worker-57: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-23 14:04:17,582 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\Spring\MyPerformanceSpringAnnotation\src\main\resources
+2023-01-23 14:04:17,584 [Worker-57: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-23 14:04:17,584 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\Spring\MyPerformanceSpringAnnotation\src\test\resources
+2023-01-23 14:04:24,167 [Worker-66: Launching Performances (1)] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-23 14:04:24,168 [Worker-66: Launching Performances (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\Spring\MyPerformanceSpringAnnotation\src\main\resources
+2023-01-23 14:04:24,169 [Worker-66: Launching Performances (1)] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-23 14:04:24,169 [Worker-66: Launching Performances (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\Spring\MyPerformanceSpringAnnotation\src\test\resources
+2023-01-23 14:05:30,166 [Worker-65: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-23 14:05:30,167 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\Spring\MyPerformanceSpringAnnotation\src\main\resources
+2023-01-23 14:05:30,167 [Worker-65: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-23 14:05:30,167 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\Spring\MyPerformanceSpringAnnotation\src\test\resources
+2023-01-23 14:06:14,674 [Worker-67: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-23 14:06:14,677 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\Spring\MyPerformanceSpringAnnotation\src\main\resources
+2023-01-23 14:06:14,679 [Worker-67: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-23 14:06:14,679 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\Spring\MyPerformanceSpringAnnotation\src\test\resources
+2023-01-23 15:03:10,490 [Worker-78: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: MyPerformanceSprintpAndc:MyPerformanceSprintpAndc:0.0.1-SNAPSHOT @ D:\work-space\Spring\MyPerformanceSpringJavaConfig\pom.xml.
+2023-01-23 15:03:10,534 [Worker-78: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-23 15:03:10,535 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\Spring\MyPerformanceSpringJavaConfig\src\main\resources
+2023-01-23 15:03:10,535 [Worker-78: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-23 15:03:10,537 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\Spring\MyPerformanceSpringJavaConfig\src\test\resources
+2023-01-23 15:03:11,791 [Worker-80: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-23 15:03:11,792 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\Spring\MyPerformanceSpringJavaConfig\src\main\resources
+2023-01-23 15:03:11,794 [Worker-80: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-23 15:03:11,796 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\Spring\MyPerformanceSpringJavaConfig\src\test\resources
+2023-01-23 15:04:09,103 [Worker-83: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-23 15:04:09,104 [Worker-83: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\Spring\MyPerformanceSpringJavaConfig\src\main\resources
+2023-01-23 15:04:09,106 [Worker-83: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-23 15:04:09,109 [Worker-83: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\Spring\MyPerformanceSpringJavaConfig\src\test\resources
+2023-01-23 15:04:44,136 [Worker-83: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-23 15:04:44,136 [Worker-83: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\Spring\MyPerformanceSpringJavaConfig\src\main\resources
+2023-01-23 15:04:44,137 [Worker-83: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-23 15:04:44,138 [Worker-83: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\Spring\MyPerformanceSpringJavaConfig\src\test\resources
+2023-01-23 15:09:24,980 [Worker-84: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-23 15:09:24,981 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\Spring\MyPerformanceSpringJavaConfig\src\main\resources
+2023-01-23 15:09:24,982 [Worker-84: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-23 15:09:24,983 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\Spring\MyPerformanceSpringJavaConfig\src\test\resources
+2023-01-23 15:12:20,814 [Worker-81: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-23 15:12:20,815 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\Spring\MyPerformanceSpringJavaConfig\src\main\resources
+2023-01-23 15:12:20,817 [Worker-81: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-23 15:12:20,818 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\Spring\MyPerformanceSpringJavaConfig\src\test\resources
+2023-01-23 15:12:28,935 [Worker-85: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-23 15:12:28,936 [Worker-85: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\Spring\MyPerformanceSpringJavaConfig\src\main\resources
+2023-01-23 15:12:28,937 [Worker-85: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-23 15:12:28,937 [Worker-85: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\Spring\MyPerformanceSpringJavaConfig\src\test\resources
+2023-01-23 15:12:34,182 [Worker-85: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-23 15:12:34,182 [Worker-85: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\Spring\MyPerformanceSpringJavaConfig\src\main\resources
+2023-01-23 15:12:34,183 [Worker-85: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-23 15:12:34,184 [Worker-85: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\Spring\MyPerformanceSpringJavaConfig\src\test\resources
+2023-01-23 15:14:55,620 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-01-23 15:15:21,531 [Worker-12: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-23 15:15:21,532 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\Spring\MyPerformanceSpringAnnotation\src\main\resources
+2023-01-23 15:15:21,537 [Worker-12: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-23 15:15:21,538 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\Spring\MyPerformanceSpringAnnotation\src\test\resources
+2023-01-23 15:15:26,649 [Worker-15: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-23 15:15:26,651 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\Spring\MyPerformanceSpringJavaConfig\src\main\resources
+2023-01-23 15:15:26,654 [Worker-15: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-23 15:15:26,655 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\Spring\MyPerformanceSpringJavaConfig\src\test\resources
+2023-01-23 15:15:27,160 [Worker-15: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-23 15:15:27,161 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\Spring\MyPerformanceSprintpAndc\src\main\resources
+2023-01-23 15:15:27,165 [Worker-15: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-23 15:15:27,167 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\Spring\MyPerformanceSprintpAndc\src\test\resources
+2023-01-23 15:19:08,059 [Worker-23: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-23 15:19:08,060 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\Spring\MyPerformanceSpringJavaConfig\src\main\resources
+2023-01-23 15:19:08,062 [Worker-23: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-23 15:19:08,063 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\Spring\MyPerformanceSpringJavaConfig\src\test\resources
+2023-01-23 15:19:21,906 [Worker-27: Launching Performances (2)] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-23 15:19:21,908 [Worker-27: Launching Performances (2)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\Spring\MyPerformanceSpringJavaConfig\src\main\resources
+2023-01-23 15:19:21,911 [Worker-27: Launching Performances (2)] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-23 15:19:21,913 [Worker-27: Launching Performances (2)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\Spring\MyPerformanceSpringJavaConfig\src\test\resources
+2023-01-23 15:23:37,245 [Worker-31: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-23 15:23:37,247 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\Spring\MyPerformanceSpringJavaConfig\src\main\resources
+2023-01-23 15:23:37,248 [Worker-31: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-23 15:23:37,249 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\Spring\MyPerformanceSpringJavaConfig\src\test\resources
+2023-01-23 15:23:53,487 [Worker-30: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-23 15:23:53,488 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\Spring\MyPerformanceSpringJavaConfig\src\main\resources
+2023-01-23 15:23:53,489 [Worker-30: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-23 15:23:53,490 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\Spring\MyPerformanceSpringJavaConfig\src\test\resources
+2023-01-23 15:24:06,068 [Worker-29: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-23 15:24:06,071 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\Spring\MyPerformanceSpringJavaConfig\src\main\resources
+2023-01-23 15:24:06,076 [Worker-29: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-23 15:24:06,077 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\Spring\MyPerformanceSpringJavaConfig\src\test\resources
+2023-01-23 15:24:47,860 [Worker-33: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-23 15:24:47,861 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\Spring\MyPerformanceSpringJavaConfig\src\main\resources
+2023-01-23 15:24:47,862 [Worker-33: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-23 15:24:47,862 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\Spring\MyPerformanceSpringJavaConfig\src\test\resources
+2023-01-23 15:25:01,029 [Worker-31: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-23 15:25:01,030 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\Spring\MyPerformanceSpringJavaConfig\src\main\resources
+2023-01-23 15:25:01,031 [Worker-31: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-23 15:25:01,033 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\Spring\MyPerformanceSpringJavaConfig\src\test\resources
+2023-01-23 15:28:39,907 [Worker-30: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-23 15:28:39,908 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\Spring\MyPerformanceSpringJavaConfig\src\main\resources
+2023-01-23 15:28:39,909 [Worker-30: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-23 15:28:39,909 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\Spring\MyPerformanceSpringJavaConfig\src\test\resources
+2023-01-23 15:29:01,453 [Worker-33: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-23 15:29:01,453 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\Spring\MyPerformanceSpringJavaConfig\src\main\resources
+2023-01-23 15:29:01,454 [Worker-33: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-23 15:29:01,455 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\Spring\MyPerformanceSpringJavaConfig\src\test\resources
+2023-01-23 15:29:12,985 [Worker-34: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-23 15:29:12,986 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\Spring\MyPerformanceSpringJavaConfig\src\main\resources
+2023-01-23 15:29:12,987 [Worker-34: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-23 15:29:12,988 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\Spring\MyPerformanceSpringJavaConfig\src\test\resources
+2023-01-23 15:29:28,406 [Worker-36: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-23 15:29:28,406 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\Spring\MyPerformanceSpringJavaConfig\src\main\resources
+2023-01-23 15:29:28,407 [Worker-36: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-23 15:29:28,407 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\Spring\MyPerformanceSpringJavaConfig\src\test\resources
+2023-01-23 15:29:37,145 [Worker-36: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-23 15:29:37,146 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\Spring\MyPerformanceSpringJavaConfig\src\main\resources
+2023-01-23 15:29:37,147 [Worker-36: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-23 15:29:37,147 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\Spring\MyPerformanceSpringJavaConfig\src\test\resources
+2023-01-23 15:30:16,213 [Worker-33: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-23 15:30:16,213 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\Spring\MyPerformanceSpringJavaConfig\src\main\resources
+2023-01-23 15:30:16,215 [Worker-33: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-23 15:30:16,215 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\Spring\MyPerformanceSpringJavaConfig\src\test\resources
+2023-01-23 15:30:17,526 [Worker-35: Launching Performances (2)] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-23 15:30:17,527 [Worker-35: Launching Performances (2)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\Spring\MyPerformanceSpringJavaConfig\src\main\resources
+2023-01-23 15:30:17,529 [Worker-35: Launching Performances (2)] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-23 15:30:17,530 [Worker-35: Launching Performances (2)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\Spring\MyPerformanceSpringJavaConfig\src\test\resources
+2023-01-23 15:33:47,583 [Worker-36: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-23 15:33:47,584 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\Spring\MyPerformanceSpringJavaConfig\src\main\resources
+2023-01-23 15:33:47,584 [Worker-36: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-23 15:33:47,584 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\Spring\MyPerformanceSpringJavaConfig\src\test\resources
+2023-01-23 15:36:12,815 [Worker-38: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-23 15:36:12,816 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\Spring\MyPerformanceSpringJavaConfig\src\main\resources
+2023-01-23 15:36:12,817 [Worker-38: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-23 15:36:12,818 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\Spring\MyPerformanceSpringJavaConfig\src\test\resources
+2023-01-23 15:36:32,182 [Worker-40: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-23 15:36:32,183 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\Spring\MyPerformanceSpringJavaConfig\src\main\resources
+2023-01-23 15:36:32,184 [Worker-40: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-23 15:36:32,185 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\Spring\MyPerformanceSpringJavaConfig\src\test\resources
+2023-01-23 15:37:10,312 [Worker-38: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-23 15:37:10,312 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\Spring\MyPerformanceSpringJavaConfig\src\main\resources
+2023-01-23 15:37:10,313 [Worker-38: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-23 15:37:10,314 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\Spring\MyPerformanceSpringJavaConfig\src\test\resources
+2023-01-23 15:37:25,789 [Worker-40: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-23 15:37:25,789 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\Spring\MyPerformanceSpringJavaConfig\src\main\resources
+2023-01-23 15:37:25,789 [Worker-40: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-23 15:37:25,790 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\Spring\MyPerformanceSpringJavaConfig\src\test\resources
+2023-01-23 15:37:57,177 [Worker-35: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-23 15:37:57,178 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\Spring\MyPerformanceSpringJavaConfig\src\main\resources
+2023-01-23 15:37:57,179 [Worker-35: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-23 15:37:57,179 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\Spring\MyPerformanceSpringJavaConfig\src\test\resources
+2023-01-23 15:38:04,317 [Worker-38: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-23 15:38:04,317 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\Spring\MyPerformanceSpringJavaConfig\src\main\resources
+2023-01-23 15:38:04,318 [Worker-38: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-23 15:38:04,318 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\Spring\MyPerformanceSpringJavaConfig\src\test\resources
+2023-01-23 15:38:44,870 [Worker-38: Launching Performances (2)] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-23 15:38:44,870 [Worker-38: Launching Performances (2)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\Spring\MyPerformanceSpringJavaConfig\src\main\resources
+2023-01-23 15:38:44,872 [Worker-38: Launching Performances (2)] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-23 15:38:44,872 [Worker-38: Launching Performances (2)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\Spring\MyPerformanceSpringJavaConfig\src\test\resources
+2023-01-23 15:39:32,524 [Worker-36: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-23 15:39:32,525 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\Spring\MyPerformanceSpringJavaConfig\src\main\resources
+2023-01-23 15:39:32,526 [Worker-36: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-23 15:39:32,526 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\Spring\MyPerformanceSpringJavaConfig\src\test\resources
+2023-01-23 15:40:01,094 [Worker-38: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-23 15:40:01,096 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\Spring\MyPerformanceSpringJavaConfig\src\main\resources
+2023-01-23 15:40:01,097 [Worker-38: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-23 15:40:01,098 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\Spring\MyPerformanceSpringJavaConfig\src\test\resources
+2023-01-23 15:40:21,268 [Worker-36: Launching Performances (2)] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-23 15:40:21,269 [Worker-36: Launching Performances (2)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\Spring\MyPerformanceSpringJavaConfig\src\main\resources
+2023-01-23 15:40:21,275 [Worker-36: Launching Performances (2)] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-23 15:40:21,278 [Worker-36: Launching Performances (2)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\Spring\MyPerformanceSpringJavaConfig\src\test\resources
+2023-01-23 15:40:57,987 [Worker-38: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-23 15:40:57,989 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\Spring\MyPerformanceSpringJavaConfig\src\main\resources
+2023-01-23 15:40:57,990 [Worker-38: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-23 15:40:57,990 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\Spring\MyPerformanceSpringJavaConfig\src\test\resources
+2023-01-23 15:41:51,248 [Worker-38: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-23 15:41:51,248 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\Spring\MyPerformanceSpringJavaConfig\src\main\resources
+2023-01-23 15:41:51,249 [Worker-38: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-01-23 15:41:51,250 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\work-space\Spring\MyPerformanceSpringJavaConfig\src\test\resources
+2023-01-23 21:46:11,239 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-01-25 12:33:50,725 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.

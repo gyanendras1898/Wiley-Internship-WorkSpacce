@@ -2,24 +2,23 @@ package com.sujata.consumer;
 
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.support.ClassPathXmlApplicationContext;
+import org.springframework.validation.beanvalidation.SpringConstraintValidatorFactory;
 
+import com.sujata.producer.Instrument;
 import com.sujata.producer.Performer;
+import com.sujata.producer.Singer;
 
 public class Performances {
 
 	public static void main(String[] args) {
-		ApplicationContext springContainer=new ClassPathXmlApplicationContext("perfomance.xml");
+//		ApplicationContext springContainer= new ClassPathXmlApplicationContext("performer.xml");
+		ApplicationContext springContainer = new ClassPathXmlApplicationContext("performance.xml");
+		Performer singer = (Performer) springContainer.getBean("singer");
+		singer.perform();
 		
-		Performer performer1=(Performer)springContainer.getBean("Waqar");
-		performer1.perform();
+		Instrument instument = (Instrument) springContainer.getBean("tabla");
 		
-		Performer performer2=(Performer)springContainer.getBean("Shafi");
-		
-		Performer performer3=(Performer)springContainer.getBean("Chetan");
-		
-		performer2.perform();
-		performer3.perform();
-
+		instument.play();
 	}
 
 }
