@@ -1,0 +1,65 @@
+package com.gyan.persistence;
+
+import java.sql.Connection;
+import java.sql.DriverManager;
+import java.sql.PreparedStatement;
+import java.sql.ResultSet;
+import java.sql.SQLException;
+import java.sql.Statement;
+
+import com.gyan.beans.Station;
+
+public class JourneyDaoImpl implements JourneyDao {
+
+	@Override
+	public boolean swipeIn(int cId, int sId) throws ClassNotFoundException, SQLException {
+		Class.forName("com.mysql.cj.jdbc.Driver");
+		Connection connection=DriverManager.getConnection("jdbc:mysql://localhost:3306/metro_system_db","root","admin");
+		
+		String query = "INSERT INTO journey (cards_number,boarding_station,boarding_datetime,destination_station)"
+				+ " values(?,?,?,?)";
+		
+		PreparedStatement preparedStatement = connection.prepareStatement(query,Statement.RETURN_GENERATED_KEYS);
+		
+		preparedStatement.setInt("cards_number", cId);
+		int affectedRows=preparedStatement.executeUpdate();
+		
+		if(affectedRows>0) {
+			ResultSet rs=preparedStatement.getGeneratedKeys();
+			if(rs.next())
+				return rs.getInt(1);
+		}
+		return -1;
+	}
+
+	@Override
+	public boolean swipeOut(int cId, int dId, int fare) throws ClassNotFoundException, SQLException {
+		// TODO Auto-generated method stub
+		return false;
+	}
+
+	@Override
+	public int getSourceStation(int cId) throws ClassNotFoundException, SQLException {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+
+	@Override
+	public int getFare(int cId) throws ClassNotFoundException, SQLException {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+
+	@Override
+	public boolean isJourneyOngoing(int cId) throws ClassNotFoundException, SQLException {
+		// TODO Auto-generated method stub
+		return false;
+	}
+
+	@Override
+	public boolean getDuration(int cId) throws ClassNotFoundException, SQLException {
+		// TODO Auto-generated method stub
+		return false;
+	}
+
+}

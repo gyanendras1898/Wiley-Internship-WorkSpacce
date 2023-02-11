@@ -1,6 +1,7 @@
 package com.gyan.service;
 
 import java.sql.SQLException;
+import java.util.List;
 
 import com.gyan.beans.Card;
 import com.gyan.persistence.CardDao;
@@ -14,8 +15,6 @@ public class CardServiceImpl implements CardService {
 	public boolean registerUser(double balance) throws ClassNotFoundException, SQLException {
 		int newId=cardDao.addCard(balance);
 		if(newId!=-1) {
-//			new Card(newId,balance);
-			System.out.println("Card Id : "+newId);
 			return true;
 		}
 		return false;
@@ -25,23 +24,22 @@ public class CardServiceImpl implements CardService {
 	public boolean isCardPresent(int cId) throws ClassNotFoundException, SQLException {
 		return cardDao.isCardPresent(cId);
 	}
+	
+	@Override
+	public double viewBalance(int cardId)throws ClassNotFoundException, SQLException {
+		return cardDao.viewBalance(cardId);
+	}
 
 	@Override
 	public boolean addCardBalance(int cardId, double balance)throws ClassNotFoundException, SQLException {
-		// TODO Auto-generated method stub
-		return false;
+		return cardDao.addBalance(cardId,this.viewBalance(cardId)+balance);
 	}
 
-	@Override
-	public double viewBalance(int cardId)throws ClassNotFoundException, SQLException {
-		// TODO Auto-generated method stub
-		return 0;
-	}
+	
 
 	@Override
-	public int viewCardId()throws ClassNotFoundException, SQLException {
-		// TODO Auto-generated method stub
-		return 0;
+	public List<Card> viewCardId()throws ClassNotFoundException, SQLException {
+		return cardDao.allCard();
 	}
 
 	

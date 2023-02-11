@@ -3,7 +3,6 @@
     <fullyQualifiedTypeName name="lombok.Data"/>
     <fullyQualifiedTypeName name="lombok.AllArgsConstructor"/>
     <fullyQualifiedTypeName name="java.util.Scanner"/>
-    <fullyQualifiedTypeName name="com.gyan.beans.Card"/>
     <fullyQualifiedTypeName name="com.gyan.service.MetroService"/>
     <fullyQualifiedTypeName name="com.gyan.service.MetroServiceImpl"/>
     <fullyQualifiedTypeName name="java.sql.PreparedStatement"/>
@@ -22,7 +21,13 @@
     <fullyQualifiedTypeName name="com.gyan.service.CardService"/>
     <fullyQualifiedTypeName name="com.gyan.service.CardServiceImpl"/>
     <fullyQualifiedTypeName name="java.util.ArrayList"/>
-    <fullyQualifiedTypeName name="com.gyan.beans.Station"/>
     <fullyQualifiedTypeName name="com.gyan.service.StationService"/>
     <fullyQualifiedTypeName name="com.gyan.service.StationServiceImpl"/>
+    <fullyQualifiedTypeName name="com.gyan.beans.Station"/>
+    <fullyQualifiedTypeName name="com.gyan.persistence.StationDao"/>
+    <fullyQualifiedTypeName name="com.gyan.persistence.StationDaoImpl"/>
+    <fullyQualifiedTypeName name="com.gyan.persistence.JourneyDao"/>
+    <fullyQualifiedTypeName name="com.gyan.persistence.JourneyDaoImpl"/>
+    <fullyQualifiedTypeName name="com.gyan.beans.Card"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
 </qualifiedTypeNameHistroy>

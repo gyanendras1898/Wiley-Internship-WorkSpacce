@@ -7,6 +7,11 @@ import java.sql.PreparedStatement;
 import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.sql.Statement;
+import java.util.ArrayList;
+import java.util.List;
+
+import com.gyan.beans.Card;
+import com.gyan.beans.Station;
 
 
 public class CardDaoImpl implements CardDao {
@@ -42,16 +47,29 @@ public class CardDaoImpl implements CardDao {
 		
 		ResultSet rs=preparedStatement.executeQuery();
 		
-		if(rs.next())
-			return rs.getDouble(1);
+		if(rs.next()) 
+			return rs.getDouble(1);	
 		return 0.0;
 	}
-
+	
 	@Override
-	public boolean addBalance(int cardId)throws SQLException, ClassNotFoundException {
-		// TODO Auto-generated method stub
-		return false;
+	public boolean addBalance(int cardId, double balance) throws ClassNotFoundException, SQLException {
+		Class.forName("com.mysql.cj.jdbc.Driver");
+		Connection connection=DriverManager.getConnection("jdbc:mysql://localhost:3306/metro_system_db","root","admin");
+		
+		String query = "update cards set balance = ? where id=?";
+		
+		PreparedStatement preparedStatement = connection.prepareStatement(query); 
+		preparedStatement.setDouble(1, balance);
+		preparedStatement.setDouble(2, cardId);
+		
+		int rs=preparedStatement.executeUpdate();
+		
+		connection.close();
+		
+		return rs>0;
 	}
+
 
 	@Override
 	public boolean isCardPresent(int cardId) throws SQLException, ClassNotFoundException {
@@ -71,8 +89,23 @@ public class CardDaoImpl implements CardDao {
 	}
 
 	@Override
-	public void allCard()throws SQLException, ClassNotFoundException {
-		// TODO Auto-generated method stub
+	public List<Card> allCard()throws SQLException, ClassNotFoundException {
+		List<Card> cards = new ArrayList<>();
+		Class.forName("com.mysql.cj.jdbc.Driver");
+		Connection connection=DriverManager.getConnection("jdbc:mysql://localhost:3306/metro_system_db","root","admin");
+		
+		String query = "select * from cards";
+		
+		PreparedStatement preparedStatement = connection.prepareStatement(query); 
+		
+		ResultSet rs=preparedStatement.executeQuery();
+		
+		while(rs.next()) {
+			int id = rs.getInt("number");
+			double balance = rs.getDouble("balance");
+			cards.add(new Card(id,balance));
+		}
+		return cards;
 
 	}
 
@@ -89,10 +122,11 @@ public class CardDaoImpl implements CardDao {
 		ResultSet rs = statement.executeQuery(query);
 		
 		while(rs.next()) {
-			
 			return rs.getInt(1);
 		}
 		return 0;
 	}
+
+	
 
 }
